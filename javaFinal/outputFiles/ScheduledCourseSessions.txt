@@ -1,0 +1,1554 @@
+---------------------------------------------------------------------
+-------------------------SCHEDUELD COURSES---------------------------
+---------------------------------------------------------------------
+
+Course: CS4A
+Description: Intro to Java Programming
+Number of Students Allowed to Join: 30
+Minimum Number of Students Needed: 5
+Initial Number Of Sessions: 2
+Number Of Students in Course: 30
+Number of Sessions scheduled: 2
+
+---------------------------
+--------SESSION #1---------
+---------------------------
+
+Session Id: j-174
+Teacher Name: Homi  Bodhanwala
+Teacher Id: bbc50
+Number of Students in Session: 15
+
+--STUDENTS--
+
+1)Utsav  Parajuli
+   8bb09
+
+2)Leila  Hurst
+   b8d8a
+
+3)August Soi Vaughan
+   60a0a
+
+4)Emmanuel  Hobbs
+   0048f
+
+5)Rhona Nua Cain
+   53a2a
+
+6)Dawn  Dalton
+   5395f
+
+7)Aladdin B Banks
+   2549b
+
+8)Elvis  Flynn
+   e93e1
+
+9)Jarrod  Burns
+   75e13
+
+10)Rashad  Beck
+   8f5ca
+
+11)Lael Jean Russo
+   4b541
+
+12)Cailin Mike Dale
+   90fe4
+
+13)Tatyana  Kirkland
+   7f9a5
+
+14)Wyoming Fue Thomas
+   ae666
+
+15)Uta Jessamine Blankenship
+   ca631
+
+--END--
+
+
+
+
+
+---------------------------
+--------SESSION #2---------
+---------------------------
+
+Session Id: c1889
+Teacher Name: Homi  Bodhanwala
+Teacher Id: bbc50
+Number of Students in Session: 15
+
+--STUDENTS--
+
+1)Lee Zenda Rowe
+   e4a12
+
+2)Mannix  Andrews
+   d90f4
+
+3)Lee Dix Fletcher
+   f41c4
+
+4)Rajah  Lott
+   5b1c1
+
+5)Kylan  Davidson
+   14282
+
+6)Nomlanga  Wilkins
+   5f762
+
+7)Amber  Mercado
+   7cc18
+
+8)Quail Fabi Silva
+   df0ba
+
+9)Fleur  Kline
+   a2423
+
+10)Marcia  Pierce
+   7b81a
+
+11)Maris  Reid
+   3be57
+
+12)Naomi  Whitley
+   b70f4
+
+13)Tanner  Lott
+   3b609
+
+14)Zoe  Sullivan
+   f8bfc
+
+15)Ezra  King
+   28ad4
+
+--END--
+
+
+
+
+---------------------------------------------------------------------
+
+
+
+Course: CS1C
+Description: Introduction To Computer Science III
+Number of Students Allowed to Join: 45
+Minimum Number of Students Needed: 5
+Initial Number Of Sessions: 3
+Number Of Students in Course: 45
+Number of Sessions scheduled: 3
+
+---------------------------
+--------SESSION #1---------
+---------------------------
+
+Session Id: p2843
+Teacher Name: Bikas  Karki
+Teacher Id: 7afb7
+Number of Students in Session: 15
+
+--STUDENTS--
+
+1)Utsav  Parajuli
+   8bb09
+
+2)Neil Xim  Mccarty
+   6635b
+
+3)Leila  Hurst
+   b8d8a
+
+4)Philip O'Brien Kirby
+   1faf3
+
+5)Dominic  Cummings
+   89b40
+
+6)Rosalyn Wayne Murray
+   3b667
+
+7)Ariel  Rosario
+   50333
+
+8)Kane  Meadows
+   f67a8
+
+9)Kaye  Schmidt
+   5443d
+
+10)Jessamine  Miles
+   552e0
+
+11)Phillip  Shepherd
+   0fffa
+
+12)Elvis  Flynn
+   e93e1
+
+13)Amal  Hancock
+   0df22
+
+14)Jarrod  Burns
+   75e13
+
+15)Rashad  Beck
+   8f5ca
+
+--END--
+
+
+
+
+
+---------------------------
+--------SESSION #2---------
+---------------------------
+
+Session Id: p1899
+Teacher Name: Deji Jake Olatuneji
+Teacher Id: 1529a
+Number of Students in Session: 15
+
+--STUDENTS--
+
+1)Lael Jean Russo
+   4b541
+
+2)Cailin Mike Dale
+   90fe4
+
+3)Tatyana  Kirkland
+   7f9a5
+
+4)Halla  Mcconnell
+   cb73e
+
+5)Ivan Henry Nicholson
+   c6d66
+
+6)Wyoming Fue Thomas
+   ae666
+
+7)Uta Jessamine Blankenship
+   ca631
+
+8)Lee Zenda Rowe
+   e4a12
+
+9)Martina  Cole
+   46ef0
+
+10)Mannix  Andrews
+   d90f4
+
+11)Lee Dix Fletcher
+   f41c4
+
+12)Grace  Dodson
+   b4d7f
+
+13)Rajah  Lott
+   5b1c1
+
+14)Kylan  Davidson
+   14282
+
+15)Lamar Dim Sullivan
+   d5b9c
+
+--END--
+
+
+
+
+
+---------------------------
+--------SESSION #3---------
+---------------------------
+
+Session Id: h-113
+Teacher Name: Mason  Greenwood
+Teacher Id: bc2ed
+Number of Students in Session: 15
+
+--STUDENTS--
+
+1)Nomlanga  Wilkins
+   5f762
+
+2)Thaddeus  Clayton
+   1c049
+
+3)Amber  Mercado
+   7cc18
+
+4)Quail Fabi Silva
+   df0ba
+
+5)Simon  Herring
+   8088a
+
+6)Fleur  Kline
+   a2423
+
+7)Marcia  Pierce
+   7b81a
+
+8)Tarik  Gould
+   364cb
+
+9)Teagan  Gamble
+   85946
+
+10)Maris  Reid
+   3be57
+
+11)Naomi  Whitley
+   b70f4
+
+12)Tanner  Lott
+   3b609
+
+13)Duncan  Sexton
+   f555d
+
+14)Jessica  Kennedy
+   ccfec
+
+15)Leila Moas Hutchinson
+   6a9a4
+
+--END--
+
+
+
+
+---------------------------------------------------------------------
+
+
+
+Course: PHY4A
+Description: General Physics I
+Number of Students Allowed to Join: 30
+Minimum Number of Students Needed: 10
+Initial Number Of Sessions: 3
+Number Of Students in Course: 21
+Number of Sessions scheduled: 2
+
+---------------------------
+--------SESSION #1---------
+---------------------------
+
+Session Id: w2019
+Teacher Name: Ole Gunna Soljeskar
+Teacher Id: b12b9
+Number of Students in Session: 10
+
+--STUDENTS--
+
+1)Utsav  Parajuli
+   8bb09
+
+2)Keelie Won Stanton
+   ada9a
+
+3)Miranda Austin Goodwin
+   e0536
+
+4)Drew Jack Torres
+   ef8e6
+
+5)Conan Miu Cline
+   69a06
+
+6)Alma Ibrahim Mooney
+   2db82
+
+7)Dennis  Beach
+   f86eb
+
+8)Philip O'Brien Kirby
+   1faf3
+
+9)Dominic  Cummings
+   89b40
+
+10)Rosalyn Wayne Murray
+   3b667
+
+--END--
+
+
+
+
+
+---------------------------
+--------SESSION #2---------
+---------------------------
+
+Session Id: d1191
+Teacher Name: John  Taft
+Teacher Id: e93d4
+Number of Students in Session: 10
+
+--STUDENTS--
+
+1)Kane  Meadows
+   f67a8
+
+2)Kaye  Schmidt
+   5443d
+
+3)Jessamine  Miles
+   552e0
+
+4)Phillip  Shepherd
+   0fffa
+
+5)Rashad  Beck
+   8f5ca
+
+6)Halla  Mcconnell
+   cb73e
+
+7)Grace  Dodson
+   b4d7f
+
+8)Thaddeus  Clayton
+   1c049
+
+9)Tarik  Gould
+   364cb
+
+10)Jessica  Kennedy
+   ccfec
+
+--END--
+
+
+
+
+---------------------------------------------------------------------
+
+
+
+Course: MATH26
+Description: Linear Algebra
+Number of Students Allowed to Join: 30
+Minimum Number of Students Needed: 15
+Initial Number Of Sessions: 2
+Number Of Students in Course: 30
+Number of Sessions scheduled: 2
+
+---------------------------
+--------SESSION #1---------
+---------------------------
+
+Session Id: e-182
+Teacher Name: James  Dowty
+Teacher Id: d0020
+Number of Students in Session: 15
+
+--STUDENTS--
+
+1)Keelie Won Stanton
+   ada9a
+
+2)Miranda Austin Goodwin
+   e0536
+
+3)Lucius Bryan Dickson
+   849d7
+
+4)Drew Jack Torres
+   ef8e6
+
+5)Leila  Hurst
+   b8d8a
+
+6)Risa Ibra Head
+   e6d38
+
+7)Conan Miu Cline
+   69a06
+
+8)Kai  Wong
+   5eb8a
+
+9)Dennis  Beach
+   f86eb
+
+10)Wynne  Benton
+   3b14d
+
+11)Dawn  Dalton
+   5395f
+
+12)Rosalyn Wayne Murray
+   3b667
+
+13)Aladdin B Banks
+   2549b
+
+14)Ariel  Rosario
+   50333
+
+15)Kaye  Schmidt
+   5443d
+
+--END--
+
+
+
+
+
+---------------------------
+--------SESSION #2---------
+---------------------------
+
+Session Id: h1750
+Teacher Name: Trevor McFlurry Williams
+Teacher Id: 50d00
+Number of Students in Session: 15
+
+--STUDENTS--
+
+1)Elvis  Flynn
+   e93e1
+
+2)Lael Jean Russo
+   4b541
+
+3)Cailin Mike Dale
+   90fe4
+
+4)Uta Jessamine Blankenship
+   ca631
+
+5)Martina  Cole
+   46ef0
+
+6)Grace  Dodson
+   b4d7f
+
+7)Nomlanga  Wilkins
+   5f762
+
+8)Thaddeus  Clayton
+   1c049
+
+9)Amber  Mercado
+   7cc18
+
+10)Quail Fabi Silva
+   df0ba
+
+11)Simon  Herring
+   8088a
+
+12)Teagan  Gamble
+   85946
+
+13)Jessica  Kennedy
+   ccfec
+
+14)Zoe  Sullivan
+   f8bfc
+
+15)Alan  Richmond
+   02bed
+
+--END--
+
+
+
+
+---------------------------------------------------------------------
+
+
+
+Course: MATH3A
+Description: Calculus One
+Number of Students Allowed to Join: 30
+Minimum Number of Students Needed: 10
+Initial Number Of Sessions: 2
+Number Of Students in Course: 15
+Number of Sessions scheduled: 1
+
+---------------------------
+--------SESSION #1---------
+---------------------------
+
+Session Id: r1013
+Teacher Name: Joey  Campbell
+Teacher Id: 7d742
+Number of Students in Session: 15
+
+--STUDENTS--
+
+1)Halla  Mcconnell
+   cb73e
+
+2)Lee Zenda Rowe
+   e4a12
+
+3)Mannix  Andrews
+   d90f4
+
+4)Lee Dix Fletcher
+   f41c4
+
+5)Rajah  Lott
+   5b1c1
+
+6)Kylan  Davidson
+   14282
+
+7)Lamar Dim Sullivan
+   d5b9c
+
+8)Marcia  Pierce
+   7b81a
+
+9)Montana  Harmon
+   41d17
+
+10)Ezra  King
+   28ad4
+
+11)Alan  Richmond
+   02bed
+
+12)Veronica  Lloyd
+   e8aa0
+
+13)Robert  Pruitt
+   d076a
+
+14)Forrest Winston Baxter
+   876e6
+
+15)Kasimir  Allen
+   c0708
+
+--END--
+
+
+
+
+---------------------------------------------------------------------
+
+
+
+Course: MATH3B
+Description: Calculus Two
+Number of Students Allowed to Join: 30
+Minimum Number of Students Needed: 10
+Initial Number Of Sessions: 2
+Number Of Students in Course: 11
+Number of Sessions scheduled: 1
+
+---------------------------
+--------SESSION #1---------
+---------------------------
+
+Session Id: u6472
+Teacher Name: Joey  Campbell
+Teacher Id: 7d742
+Number of Students in Session: 11
+
+--STUDENTS--
+
+1)Jasmine  Koirala
+   17e17
+
+2)Keelie Won Stanton
+   ada9a
+
+3)Miranda Austin Goodwin
+   e0536
+
+4)August Soi Vaughan
+   60a0a
+
+5)Ali Liam Long
+   1d1c9
+
+6)Emmanuel  Hobbs
+   0048f
+
+7)Alma Ibrahim Mooney
+   2db82
+
+8)Philip O'Brien Kirby
+   1faf3
+
+9)Kane  Meadows
+   f67a8
+
+10)Jessamine  Miles
+   552e0
+
+11)Jarrod  Burns
+   75e13
+
+--END--
+
+
+
+
+---------------------------------------------------------------------
+
+
+
+Course: MATH3C
+Description: Calculus Three
+Number of Students Allowed to Join: 30
+Minimum Number of Students Needed: 10
+Initial Number Of Sessions: 2
+Number Of Students in Course: 17
+Number of Sessions scheduled: 1
+
+---------------------------
+--------SESSION #1---------
+---------------------------
+
+Session Id: y1810
+Teacher Name: James  Dowty
+Teacher Id: d0020
+Number of Students in Session: 15
+
+--STUDENTS--
+
+1)Drew Jack Torres
+   ef8e6
+
+2)Kai  Wong
+   5eb8a
+
+3)Alma Ibrahim Mooney
+   2db82
+
+4)Dennis  Beach
+   f86eb
+
+5)Rhona Nua Cain
+   53a2a
+
+6)Dawn  Dalton
+   5395f
+
+7)Tanner  Lott
+   3b609
+
+8)Duncan  Sexton
+   f555d
+
+9)Leila Moas Hutchinson
+   6a9a4
+
+10)Kirestin Rodri Whitney
+   eb077
+
+11)Cherokee  Lambert
+   a54bc
+
+12)Veronica  Lloyd
+   e8aa0
+
+13)Linda Ferris Sargent
+   6699e
+
+14)Isaac Louis Velasquez
+   eff13
+
+15)Yardley  Barrera
+   4f3ea
+
+--END--
+
+
+
+
+---------------------------------------------------------------------
+
+
+
+Course: CS4B
+Description: Advanced Topics In Java Programming
+Number of Students Allowed to Join: 15
+Minimum Number of Students Needed: 5
+Initial Number Of Sessions: 1
+Number Of Students in Course: 11
+Number of Sessions scheduled: 1
+
+---------------------------
+--------SESSION #1---------
+---------------------------
+
+Session Id: q1614
+Teacher Name: Homi  Bodhanwala
+Teacher Id: bbc50
+Number of Students in Session: 11
+
+--STUDENTS--
+
+1)Jasmine  Koirala
+   17e17
+
+2)Keelie Won Stanton
+   ada9a
+
+3)Miranda Austin Goodwin
+   e0536
+
+4)Drew Jack Torres
+   ef8e6
+
+5)Alma Ibrahim Mooney
+   2db82
+
+6)Dennis  Beach
+   f86eb
+
+7)Teagan  Gamble
+   85946
+
+8)Naomi  Whitley
+   b70f4
+
+9)Montana  Harmon
+   41d17
+
+10)Alan  Richmond
+   02bed
+
+11)Isaac Louis Velasquez
+   eff13
+
+--END--
+
+
+
+
+---------------------------------------------------------------------
+
+
+
+Course: CS1A
+Description: Introduction To Computer Science I
+Number of Students Allowed to Join: 20
+Minimum Number of Students Needed: 5
+Initial Number Of Sessions: 2
+Number Of Students in Course: 16
+Number of Sessions scheduled: 2
+
+---------------------------
+--------SESSION #1---------
+---------------------------
+
+Session Id: f1754
+Teacher Name: Michelle Mary Rosseau
+Teacher Id: bf039
+Number of Students in Session: 10
+
+--STUDENTS--
+
+1)Conan Miu Cline
+   69a06
+
+2)Kai  Wong
+   5eb8a
+
+3)Wynne  Benton
+   3b14d
+
+4)Rhona Nua Cain
+   53a2a
+
+5)Dominic  Cummings
+   89b40
+
+6)Phillip  Shepherd
+   0fffa
+
+7)Amal  Hancock
+   0df22
+
+8)Tatyana  Kirkland
+   7f9a5
+
+9)Ivan Henry Nicholson
+   c6d66
+
+10)Wyoming Fue Thomas
+   ae666
+
+--END--
+
+
+
+
+
+---------------------------
+--------SESSION #2---------
+---------------------------
+
+Session Id: k8239
+Teacher Name: Jurgen  Klopp
+Teacher Id: 25288
+Number of Students in Session: 6
+
+--STUDENTS--
+
+1)Fleur  Kline
+   a2423
+
+2)Tarik  Gould
+   364cb
+
+3)Maris  Reid
+   3be57
+
+4)Naomi  Whitley
+   b70f4
+
+5)Alan  Richmond
+   02bed
+
+6)Forrest Winston Baxter
+   876e6
+
+--END--
+
+
+
+
+---------------------------------------------------------------------
+
+
+
+Course: CS1B
+Description: Introduction To Computer Science II
+Number of Students Allowed to Join: 10
+Minimum Number of Students Needed: 5
+Initial Number Of Sessions: 1
+Number Of Students in Course: 10
+Number of Sessions scheduled: 1
+
+---------------------------
+--------SESSION #1---------
+---------------------------
+
+Session Id: x8897
+Teacher Name: Michelle Mary Rosseau
+Teacher Id: bf039
+Number of Students in Session: 10
+
+--STUDENTS--
+
+1)Zoe  Sullivan
+   f8bfc
+
+2)Leila Moas Hutchinson
+   6a9a4
+
+3)Ella  Guzman
+   5ed45
+
+4)Kasimir  Allen
+   c0708
+
+5)Barry Ellis Mills
+   5cd95
+
+6)Tanner  Huber
+   0dc3c
+
+7)Grant  Jensen
+   e4768
+
+8)Cullen Illaya Gates
+   01b08
+
+9)Prasad  Singh
+   0a9da
+
+10)Kim Jong Nunc
+   d4812
+
+--END--
+
+
+
+
+---------------------------------------------------------------------
+
+
+
+Course: PHY4B
+Description: General Physics II
+Number of Students Allowed to Join: 25
+Minimum Number of Students Needed: 10
+Initial Number Of Sessions: 2
+Number Of Students in Course: 16
+Number of Sessions scheduled: 1
+
+---------------------------
+--------SESSION #1---------
+---------------------------
+
+Session Id: c-240
+Teacher Name: Ole Gunna Soljeskar
+Teacher Id: b12b9
+Number of Students in Session: 12
+
+--STUDENTS--
+
+1)Jasmine  Koirala
+   17e17
+
+2)Neil Xim  Mccarty
+   6635b
+
+3)Lucius Bryan Dickson
+   849d7
+
+4)August Soi Vaughan
+   60a0a
+
+5)Risa Ibra Head
+   e6d38
+
+6)Ali Liam Long
+   1d1c9
+
+7)Emmanuel  Hobbs
+   0048f
+
+8)Wynne  Benton
+   3b14d
+
+9)Aladdin B Banks
+   2549b
+
+10)Ariel  Rosario
+   50333
+
+11)Amal  Hancock
+   0df22
+
+12)Ivan Henry Nicholson
+   c6d66
+
+--END--
+
+
+
+
+---------------------------------------------------------------------
+
+
+
+Course: PHY4C
+Description: General Physics III
+Number of Students Allowed to Join: 25
+Minimum Number of Students Needed: 10
+Initial Number Of Sessions: 2
+Number Of Students in Course: 10
+Number of Sessions scheduled: 1
+
+---------------------------
+--------SESSION #1---------
+---------------------------
+
+Session Id: m1034
+Teacher Name: Ole Gunna Soljeskar
+Teacher Id: b12b9
+Number of Students in Session: 10
+
+--STUDENTS--
+
+1)Zoe  Sullivan
+   f8bfc
+
+2)Ezra  King
+   28ad4
+
+3)Carolyn  Graham
+   1dd80
+
+4)Yardley  Barrera
+   4f3ea
+
+5)Wynne  Avila
+   ea364
+
+6)Bikram Prasad Gates
+   8f46d
+
+7)Bruno  Fernandes
+   6f42a
+
+8)Antony  Martial
+   2bc1a
+
+9)Marcus  Rashboi
+   e002b
+
+10)Mo  Salah
+   e38a3
+
+--END--
+
+
+
+
+---------------------------------------------------------------------
+
+
+
+Course: ENG1A
+Description: Principles of Composition
+Number of Students Allowed to Join: 20
+Minimum Number of Students Needed: 10
+Initial Number Of Sessions: 2
+Number Of Students in Course: 16
+Number of Sessions scheduled: 1
+
+---------------------------
+--------SESSION #1---------
+---------------------------
+
+Session Id: f-159
+Teacher Name: John  Kath
+Teacher Id: 8791a
+Number of Students in Session: 10
+
+--STUDENTS--
+
+1)Neil Xim  Mccarty
+   6635b
+
+2)Lucius Bryan Dickson
+   849d7
+
+3)Risa Ibra Head
+   e6d38
+
+4)Ali Liam Long
+   1d1c9
+
+5)Conan Miu Cline
+   69a06
+
+6)Emmanuel  Hobbs
+   0048f
+
+7)Wynne  Benton
+   3b14d
+
+8)Rhona Nua Cain
+   53a2a
+
+9)Dawn  Dalton
+   5395f
+
+10)Cailin  Oneil
+   34c12
+
+--END--
+
+
+
+
+---------------------------------------------------------------------
+
+
+
+Course: ENG1B
+Description: Principles of Composition
+Number of Students Allowed to Join: 20
+Minimum Number of Students Needed: 5
+Initial Number Of Sessions: 2
+Number Of Students in Course: 13
+Number of Sessions scheduled: 1
+
+---------------------------
+--------SESSION #1---------
+---------------------------
+
+Session Id: g2032
+Teacher Name: John  Kath
+Teacher Id: 8791a
+Number of Students in Session: 10
+
+--STUDENTS--
+
+1)Philip O'Brien Kirby
+   1faf3
+
+2)Dominic  Cummings
+   89b40
+
+3)Rosalyn Wayne Murray
+   3b667
+
+4)Aladdin B Banks
+   2549b
+
+5)Ariel  Rosario
+   50333
+
+6)Kane  Meadows
+   f67a8
+
+7)Kaye  Schmidt
+   5443d
+
+8)Jessamine  Miles
+   552e0
+
+9)Phillip  Shepherd
+   0fffa
+
+10)Elvis  Flynn
+   e93e1
+
+--END--
+
+
+
+
+---------------------------------------------------------------------
+
+
+
+Course: BIO20
+Description: Intro to Biology
+Number of Students Allowed to Join: 15
+Minimum Number of Students Needed: 5
+Initial Number Of Sessions: 2
+Number Of Students in Course: 13
+Number of Sessions scheduled: 2
+
+---------------------------
+--------SESSION #1---------
+---------------------------
+
+Session Id: k1882
+Teacher Name: Micheal  Jackson
+Teacher Id: 9265f
+Number of Students in Session: 7
+
+--STUDENTS--
+
+1)Uta Jessamine Blankenship
+   ca631
+
+2)Mannix  Andrews
+   d90f4
+
+3)Lee Dix Fletcher
+   f41c4
+
+4)Grace  Dodson
+   b4d7f
+
+5)Rajah  Lott
+   5b1c1
+
+6)Kylan  Davidson
+   14282
+
+7)Nomlanga  Wilkins
+   5f762
+
+--END--
+
+
+
+
+
+---------------------------
+--------SESSION #2---------
+---------------------------
+
+Session Id: u1596
+Teacher Name: Frainkie  Cotinola
+Teacher Id: 06d39
+Number of Students in Session: 6
+
+--STUDENTS--
+
+1)Thaddeus  Clayton
+   1c049
+
+2)Amber  Mercado
+   7cc18
+
+3)Quail Fabi Silva
+   df0ba
+
+4)Simon  Herring
+   8088a
+
+5)Fleur  Kline
+   a2423
+
+6)Jessica  Kennedy
+   ccfec
+
+--END--
+
+
+
+
+---------------------------------------------------------------------
+
+
+
+Course: GD5
+Description: History of Animation
+Number of Students Allowed to Join: 25
+Minimum Number of Students Needed: 10
+Initial Number Of Sessions: 1
+Number Of Students in Course: 11
+Number of Sessions scheduled: 1
+
+---------------------------
+--------SESSION #1---------
+---------------------------
+
+Session Id: h1490
+Teacher Name: Jurgen  Klopp
+Teacher Id: 25288
+Number of Students in Session: 11
+
+--STUDENTS--
+
+1)Ivan Henry Nicholson
+   c6d66
+
+2)Wyoming Fue Thomas
+   ae666
+
+3)Lee Zenda Rowe
+   e4a12
+
+4)Ezra  King
+   28ad4
+
+5)Kirestin Rodri Whitney
+   eb077
+
+6)Bikram Prasad Gates
+   8f46d
+
+7)Kim Jong Nunc
+   d4812
+
+8)Harry  Kane
+   89292
+
+9)Heuing Mein Son
+   620f0
+
+10)Paul  Pogba
+   75613
+
+11)Marcus  Rashboi
+   e002b
+
+--END--
+
+
+
+
+---------------------------------------------------------------------
+
+
+
+Course: MATH2
+Description: Pre Calculus
+Number of Students Allowed to Join: 20
+Minimum Number of Students Needed: 10
+Initial Number Of Sessions: 2
+Number Of Students in Course: 14
+Number of Sessions scheduled: 1
+
+---------------------------
+--------SESSION #1---------
+---------------------------
+
+Session Id: a7466
+Teacher Name: Trevor McFlurry Williams
+Teacher Id: 50d00
+Number of Students in Session: 10
+
+--STUDENTS--
+
+1)Montana  Harmon
+   41d17
+
+2)Cherokee  Lambert
+   a54bc
+
+3)Linda Ferris Sargent
+   6699e
+
+4)Yardley  Barrera
+   4f3ea
+
+5)Melissa  Contreras
+   d0cef
+
+6)Robert  Pruitt
+   d076a
+
+7)Forrest Winston Baxter
+   876e6
+
+8)Grant  Jensen
+   e4768
+
+9)Wynne  Avila
+   ea364
+
+10)Bikram Prasad Gates
+   8f46d
+
+--END--
+
+
+
+
+---------------------------------------------------------------------
+
+
+
+Course: CS3A
+Description: Machine Language
+Number of Students Allowed to Join: 20
+Minimum Number of Students Needed: 5
+Initial Number Of Sessions: 1
+Number Of Students in Course: 11
+Number of Sessions scheduled: 1
+
+---------------------------
+--------SESSION #1---------
+---------------------------
+
+Session Id: d5050
+Teacher Name: Bikas  Karki
+Teacher Id: 7afb7
+Number of Students in Session: 11
+
+--STUDENTS--
+
+1)Jasmine  Koirala
+   17e17
+
+2)Ivy Won Rhodes
+   05454
+
+3)Kim Jong Nunc
+   d4812
+
+4)Harry  Kane
+   89292
+
+5)Heuing Mein Son
+   620f0
+
+6)Bruno  Fernandes
+   6f42a
+
+7)Paul  Pogba
+   75613
+
+8)Marcus   Rashford
+   e6a0d
+
+9)Antony  Martial
+   2bc1a
+
+10)Bobby  Firmino
+   119b7
+
+11)Mo  Salah
+   e38a3
+
+--END--
+
+
+
+
+---------------------------------------------------------------------
+
+
+
+Course: CS3B
+Description: Assembly Language
+Number of Students Allowed to Join: 20
+Minimum Number of Students Needed: 5
+Initial Number Of Sessions: 1
+Number Of Students in Course: 10
+Number of Sessions scheduled: 1
+
+---------------------------
+--------SESSION #1---------
+---------------------------
+
+Session Id: x1023
+Teacher Name: Bikas  Karki
+Teacher Id: 7afb7
+Number of Students in Session: 10
+
+--STUDENTS--
+
+1)Utsav  Parajuli
+   8bb09
+
+2)Leila  Hurst
+   b8d8a
+
+3)August Soi Vaughan
+   60a0a
+
+4)Kai  Wong
+   5eb8a
+
+5)Ariel  Rosario
+   50333
+
+6)Rashad  Beck
+   8f5ca
+
+7)Martina  Cole
+   46ef0
+
+8)Lamar Dim Sullivan
+   d5b9c
+
+9)Maris  Reid
+   3be57
+
+10)Veronica  Lloyd
+   e8aa0
+
+--END--
+
+
+
+
+---------------------------------------------------------------------
+
+

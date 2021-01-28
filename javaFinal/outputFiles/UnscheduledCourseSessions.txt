@@ -1,0 +1,17 @@
+----------------------------------------------------------------------
+-------------------------UNSCHEDUELD COURSES--------------------------
+----------------------------------------------------------------------
+COURSE: ARCH12
+DESCRIPTION: History of Architecture
+MINIMUM STUDENTS NEEDED: 10
+STUDENTS THAT TRIED TO ENROLL: 9
+----------------------------------------------------------------------
+
+
+COURSE: SOC1
+DESCRIPTION: Intro to Sociology
+MINIMUM STUDENTS NEEDED: 10
+STUDENTS THAT TRIED TO ENROLL: 5
+----------------------------------------------------------------------
+
+

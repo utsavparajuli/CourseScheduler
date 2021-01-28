@@ -1,0 +1,2962 @@
+-------------------------------------------------------------------------
+---------------------------SCHEDULED STUDENTS----------------------------
+-------------------------------------------------------------------------
+
+
+-----STUDENT #1-----
+Name: Utsav  Parajuli
+Email: utsavparajuli@gmail.com
+Phone Number: 949-607-9098
+Address: 2204 Capobella, Aliso Viejo, California, 92656
+ID: 8bb09
+Date of Birth: Wed Nov 15 2000
+GPA: 4.0
+Joined: Sun Aug 18 2019
+
+-----COURSES----
+
+Course ID: CS4A
+Description: Intro to Java Programming
+Session ID: j-174
+
+
+Course ID: CS1C
+Description: Introduction To Computer Science III
+Session ID: p2843
+
+
+Course ID: PHY4A
+Description: General Physics I
+Session ID: w2019
+
+
+Course ID: CS3B
+Description: Assembly Language
+Session ID: x1023
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #2-----
+Name: Jasmine  Koirala
+Email: jasminekoirala@gmail.com
+Phone Number: 949-922-2483
+Address: 2583 Windsong 37B, Aliso Viejo, California, 92656
+ID: 17e17
+Date of Birth: Sat Jul 14 2001
+GPA: 4.0
+Joined: Sun Aug 18 2019
+
+-----COURSES----
+
+Course ID: MATH3B
+Description: Calculus Two
+Session ID: u6472
+
+
+Course ID: CS4B
+Description: Advanced Topics In Java Programming
+Session ID: q1614
+
+
+Course ID: PHY4B
+Description: General Physics II
+Session ID: c-240
+
+
+Course ID: CS3A
+Description: Machine Language
+Session ID: d5050
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #3-----
+Name: Neil Xim  Mccarty
+Email: amet.dapibus@lectus.edu
+Phone Number: 111-027-9436
+Address: 6966 Diam Avenue, Dolembreux, Luik, 81767
+ID: 6635b
+Date of Birth: Mon Apr 09 2001
+GPA: 3.9
+Joined: Sun Jan 12 2020
+
+-----COURSES----
+
+Course ID: CS1C
+Description: Introduction To Computer Science III
+Session ID: p2843
+
+
+Course ID: PHY4B
+Description: General Physics II
+Session ID: c-240
+
+
+Course ID: ENG1A
+Description: Principles of Composition
+Session ID: f-159
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #4-----
+Name: Keelie Won Stanton
+Email: vestibulum.neque@non.com
+Phone Number: 231-442-9606
+Address: 6377 Mauris Road, Bad Homburg v. d. Höhe, Hessen, 961850
+ID: ada9a
+Date of Birth: Sun Jul 04 1999
+GPA: 1.2
+Joined: Sat Sep 08 2018
+
+-----COURSES----
+
+Course ID: PHY4A
+Description: General Physics I
+Session ID: w2019
+
+
+Course ID: MATH26
+Description: Linear Algebra
+Session ID: e-182
+
+
+Course ID: MATH3B
+Description: Calculus Two
+Session ID: u6472
+
+
+Course ID: CS4B
+Description: Advanced Topics In Java Programming
+Session ID: q1614
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #5-----
+Name: Miranda Austin Goodwin
+Email: consectetuer.rhoncus.Nullam@Vivamus.com
+Phone Number: 446-890-4015
+Address: 484 Laoreet, Rd., Berlin, Berlin, 69917
+ID: e0536
+Date of Birth: Sat Mar 30 2002
+GPA: 2.8
+Joined: Wed Aug 11 2021
+
+-----COURSES----
+
+Course ID: PHY4A
+Description: General Physics I
+Session ID: w2019
+
+
+Course ID: MATH26
+Description: Linear Algebra
+Session ID: e-182
+
+
+Course ID: MATH3B
+Description: Calculus Two
+Session ID: u6472
+
+
+Course ID: CS4B
+Description: Advanced Topics In Java Programming
+Session ID: q1614
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #6-----
+Name: Lucius Bryan Dickson
+Email: sit.amet@Phasellusvitae.org
+Phone Number: 921-929-3008
+Address: 928-2304 Ante Ave, Dublin, Loui, 55497
+ID: 849d7
+Date of Birth: Sat Sep 21 2002
+GPA: 2.6
+Joined: Fri Jul 03 2020
+
+-----COURSES----
+
+Course ID: MATH26
+Description: Linear Algebra
+Session ID: e-182
+
+
+Course ID: PHY4B
+Description: General Physics II
+Session ID: c-240
+
+
+Course ID: ENG1A
+Description: Principles of Composition
+Session ID: f-159
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #7-----
+Name: Drew Jack Torres
+Email: lorem.lorem.luctus@lacus.net
+Phone Number: 844-008-4425
+Address: 8306 Diam Rd., Kaneohe, HI, 20969
+ID: ef8e6
+Date of Birth: Fri Jan 10 1997
+GPA: 2.5
+Joined: Thu Jan 09 2020
+
+-----COURSES----
+
+Course ID: PHY4A
+Description: General Physics I
+Session ID: w2019
+
+
+Course ID: MATH26
+Description: Linear Algebra
+Session ID: e-182
+
+
+Course ID: MATH3C
+Description: Calculus Three
+Session ID: y1810
+
+
+Course ID: CS4B
+Description: Advanced Topics In Java Programming
+Session ID: q1614
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #8-----
+Name: Leila  Hurst
+Email: eu.sem.Pellentesque@in.com
+Phone Number: 914-646-2286
+Address: Ap #693-9960 Urna Road, Caledon, ON, 89734
+ID: b8d8a
+Date of Birth: Fri Apr 12 2002
+GPA: 4.0
+Joined: Fri Feb 01 2019
+
+-----COURSES----
+
+Course ID: CS4A
+Description: Intro to Java Programming
+Session ID: j-174
+
+
+Course ID: CS1C
+Description: Introduction To Computer Science III
+Session ID: p2843
+
+
+Course ID: MATH26
+Description: Linear Algebra
+Session ID: e-182
+
+
+Course ID: CS3B
+Description: Assembly Language
+Session ID: x1023
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #9-----
+Name: August Soi Vaughan
+Email: Fusce.diam.nunc@urnaNunc.ca
+Phone Number: 450-161-9097
+Address: 720-2101 Tincidunt Rd., Guarulhos, SP, 28471
+ID: 60a0a
+Date of Birth: Sat Apr 10 1999
+GPA: 3.4
+Joined: Tue Sep 03 2019
+
+-----COURSES----
+
+Course ID: CS4A
+Description: Intro to Java Programming
+Session ID: j-174
+
+
+Course ID: MATH3B
+Description: Calculus Two
+Session ID: u6472
+
+
+Course ID: PHY4B
+Description: General Physics II
+Session ID: c-240
+
+
+Course ID: CS3B
+Description: Assembly Language
+Session ID: x1023
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #10-----
+Name: Risa Ibra Head
+Email: in@sagittisfelis.com
+Phone Number: 777-100-3878
+Address: Ap #765-6257 A Avenue, Kano, Kano, 49503
+ID: e6d38
+Date of Birth: Mon Aug 06 2001
+GPA: 1.0
+Joined: Tue Feb 01 2022
+
+-----COURSES----
+
+Course ID: MATH26
+Description: Linear Algebra
+Session ID: e-182
+
+
+Course ID: PHY4B
+Description: General Physics II
+Session ID: c-240
+
+
+Course ID: ENG1A
+Description: Principles of Composition
+Session ID: f-159
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #11-----
+Name: Ali Liam Long
+Email: lectus.Nullam@Proin.net
+Phone Number: 705-672-9112
+Address: 593-4440 Mi Av., Paraíso, Cartago, 30319
+ID: 1d1c9
+Date of Birth: Tue Jun 03 1997
+GPA: 3.4
+Joined: Wed Feb 12 2020
+
+-----COURSES----
+
+Course ID: MATH3B
+Description: Calculus Two
+Session ID: u6472
+
+
+Course ID: PHY4B
+Description: General Physics II
+Session ID: c-240
+
+
+Course ID: ENG1A
+Description: Principles of Composition
+Session ID: f-159
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #12-----
+Name: Conan Miu Cline
+Email: nec.cursus@nisiAenean.org
+Phone Number: 475-407-6055
+Address: 749-668 Tortor Ave, Bremerhaven, HB, 32802
+ID: 69a06
+Date of Birth: Fri Jun 07 2002
+GPA: 3.6
+Joined: Sun Aug 09 2020
+
+-----COURSES----
+
+Course ID: PHY4A
+Description: General Physics I
+Session ID: w2019
+
+
+Course ID: MATH26
+Description: Linear Algebra
+Session ID: e-182
+
+
+Course ID: CS1A
+Description: Introduction To Computer Science I
+Session ID: f1754
+
+
+Course ID: ENG1A
+Description: Principles of Composition
+Session ID: f-159
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #13-----
+Name: Emmanuel  Hobbs
+Email: feugiat@mauris.org
+Phone Number: 568-063-5962
+Address: Ap #290-3191 Fringilla Av, Palmerston North, NI, 209253
+ID: 0048f
+Date of Birth: Thu Apr 11 2002
+GPA: 1.6
+Joined: Wed Feb 06 2019
+
+-----COURSES----
+
+Course ID: CS4A
+Description: Intro to Java Programming
+Session ID: j-174
+
+
+Course ID: MATH3B
+Description: Calculus Two
+Session ID: u6472
+
+
+Course ID: PHY4B
+Description: General Physics II
+Session ID: c-240
+
+
+Course ID: ENG1A
+Description: Principles of Composition
+Session ID: f-159
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #14-----
+Name: Kai  Wong
+Email: magna@nibh.com
+Phone Number: 472-035-6665
+Address: 9111 Egestas Av., Tourinnes-la-Grosse, WB, 57507
+ID: 5eb8a
+Date of Birth: Sun Feb 18 2001
+GPA: 3.6
+Joined: Tue Jan 08 2019
+
+-----COURSES----
+
+Course ID: MATH26
+Description: Linear Algebra
+Session ID: e-182
+
+
+Course ID: MATH3C
+Description: Calculus Three
+Session ID: y1810
+
+
+Course ID: CS1A
+Description: Introduction To Computer Science I
+Session ID: f1754
+
+
+Course ID: CS3B
+Description: Assembly Language
+Session ID: x1023
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #15-----
+Name: Alma Ibrahim Mooney
+Email: ut@sitametnulla.org
+Phone Number: 483-020-0739
+Address: Ap #320-9932 Convallis Av., Haarlem, Noord Holland, 8310
+ID: 2db82
+Date of Birth: Sun Oct 18 1998
+GPA: 1.9
+Joined: Wed Dec 09 2020
+
+-----COURSES----
+
+Course ID: PHY4A
+Description: General Physics I
+Session ID: w2019
+
+
+Course ID: MATH3B
+Description: Calculus Two
+Session ID: u6472
+
+
+Course ID: MATH3C
+Description: Calculus Three
+Session ID: y1810
+
+
+Course ID: CS4B
+Description: Advanced Topics In Java Programming
+Session ID: q1614
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #16-----
+Name: Dennis  Beach
+Email: lectus.a@congueaaliquet.ca
+Phone Number: 076-889-8097
+Address: Ap #967-7712 Risus. St., Konin, Wielkopolskie, 78970
+ID: f86eb
+Date of Birth: Mon Dec 09 1996
+GPA: 4.0
+Joined: Mon Oct 05 2020
+
+-----COURSES----
+
+Course ID: PHY4A
+Description: General Physics I
+Session ID: w2019
+
+
+Course ID: MATH26
+Description: Linear Algebra
+Session ID: e-182
+
+
+Course ID: MATH3C
+Description: Calculus Three
+Session ID: y1810
+
+
+Course ID: CS4B
+Description: Advanced Topics In Java Programming
+Session ID: q1614
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #17-----
+Name: Wynne  Benton
+Email: ridiculus.mus.Aenean@Mauris.edu
+Phone Number: 300-893-2369
+Address: Ap #743-2771 Auctor Ave, Kitimat, British Columbia, 3698
+ID: 3b14d
+Date of Birth: Sat Mar 16 2002
+GPA: 2.0
+Joined: Sat Oct 05 2019
+
+-----COURSES----
+
+Course ID: MATH26
+Description: Linear Algebra
+Session ID: e-182
+
+
+Course ID: CS1A
+Description: Introduction To Computer Science I
+Session ID: f1754
+
+
+Course ID: PHY4B
+Description: General Physics II
+Session ID: c-240
+
+
+Course ID: ENG1A
+Description: Principles of Composition
+Session ID: f-159
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #18-----
+Name: Philip O'Brien Kirby
+Email: dictum@velitduisemper.net
+Phone Number: 166-008-7515
+Address: 22 Ultricies St., Mahbubnagar, Andhra Pradesh, 76629
+ID: 1faf3
+Date of Birth: Sat May 26 2001
+GPA: 2.7
+Joined: Sat Nov 06 2021
+
+-----COURSES----
+
+Course ID: CS1C
+Description: Introduction To Computer Science III
+Session ID: p2843
+
+
+Course ID: PHY4A
+Description: General Physics I
+Session ID: w2019
+
+
+Course ID: MATH3B
+Description: Calculus Two
+Session ID: u6472
+
+
+Course ID: ENG1B
+Description: Principles of Composition
+Session ID: g2032
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #19-----
+Name: Rhona Nua Cain
+Email: Ut.sagittis@laoreet.edu
+Phone Number: 170-869-8182
+Address: P.O. Box 494, 2890 Euismod Av., Värnamo, Feugo, 941654
+ID: 53a2a
+Date of Birth: Tue Apr 30 2002
+GPA: 3.0
+Joined: Mon Feb 03 2020
+
+-----COURSES----
+
+Course ID: CS4A
+Description: Intro to Java Programming
+Session ID: j-174
+
+
+Course ID: MATH3C
+Description: Calculus Three
+Session ID: y1810
+
+
+Course ID: CS1A
+Description: Introduction To Computer Science I
+Session ID: f1754
+
+
+Course ID: ENG1A
+Description: Principles of Composition
+Session ID: f-159
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #20-----
+Name: Dawn  Dalton
+Email: risus.Quisque@luctus.co.uk
+Phone Number: 886-367-8945
+Address: 5322 Metus Ave, Pariaman, SB, 249018
+ID: 5395f
+Date of Birth: Wed Feb 12 1997
+GPA: 2.0
+Joined: Sun Jul 12 2020
+
+-----COURSES----
+
+Course ID: CS4A
+Description: Intro to Java Programming
+Session ID: j-174
+
+
+Course ID: MATH26
+Description: Linear Algebra
+Session ID: e-182
+
+
+Course ID: MATH3C
+Description: Calculus Three
+Session ID: y1810
+
+
+Course ID: ENG1A
+Description: Principles of Composition
+Session ID: f-159
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #21-----
+Name: Dominic  Cummings
+Email: dapibus.quam@aptenttacitisociosqu.ca
+Phone Number: 326-895-4580
+Address: Ap #616-3105 Imperdiet, Av., Málaga, Andalucía, 12314
+ID: 89b40
+Date of Birth: Sun Jun 17 2001
+GPA: 2.6
+Joined: Tue May 10 2022
+
+-----COURSES----
+
+Course ID: CS1C
+Description: Introduction To Computer Science III
+Session ID: p2843
+
+
+Course ID: PHY4A
+Description: General Physics I
+Session ID: w2019
+
+
+Course ID: CS1A
+Description: Introduction To Computer Science I
+Session ID: f1754
+
+
+Course ID: ENG1B
+Description: Principles of Composition
+Session ID: g2032
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #22-----
+Name: Rosalyn Wayne Murray
+Email: velit.Cras@semvitaealiquam.org
+Phone Number: 173-351-9582
+Address: P.O. Box 287, 5548 In Ave, Cartagena, Bolívar, 381349
+ID: 3b667
+Date of Birth: Mon Mar 30 1998
+GPA: 1.6
+Joined: Tue Mar 03 2020
+
+-----COURSES----
+
+Course ID: CS1C
+Description: Introduction To Computer Science III
+Session ID: p2843
+
+
+Course ID: PHY4A
+Description: General Physics I
+Session ID: w2019
+
+
+Course ID: MATH26
+Description: Linear Algebra
+Session ID: e-182
+
+
+Course ID: ENG1B
+Description: Principles of Composition
+Session ID: g2032
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #23-----
+Name: Aladdin B Banks
+Email: iaculis.lacus@Quisquefringillaeuismod.co.uk
+Phone Number: 636-664-6537
+Address: 87-7086 Quis St, Bundaberg, QLD, 905644
+ID: 2549b
+Date of Birth: Mon Jun 26 2000
+GPA: 3.8
+Joined: Tue Feb 02 2021
+
+-----COURSES----
+
+Course ID: CS4A
+Description: Intro to Java Programming
+Session ID: j-174
+
+
+Course ID: MATH26
+Description: Linear Algebra
+Session ID: e-182
+
+
+Course ID: PHY4B
+Description: General Physics II
+Session ID: c-240
+
+
+Course ID: ENG1B
+Description: Principles of Composition
+Session ID: g2032
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #24-----
+Name: Ariel  Rosario
+Email: mauris@pharetra.co.uk
+Phone Number: 626-501-3532
+Address: Ap #349-6841 Ornare, Rd., Isola, ABR, 51702
+ID: 50333
+Date of Birth: Sun Jan 12 1997
+GPA: 1.8
+Joined: Fri Apr 03 2020
+
+-----COURSES----
+
+Course ID: CS1C
+Description: Introduction To Computer Science III
+Session ID: p2843
+
+
+Course ID: MATH26
+Description: Linear Algebra
+Session ID: e-182
+
+
+Course ID: PHY4B
+Description: General Physics II
+Session ID: c-240
+
+
+Course ID: ENG1B
+Description: Principles of Composition
+Session ID: g2032
+
+
+Course ID: CS3B
+Description: Assembly Language
+Session ID: x1023
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #25-----
+Name: Kane  Meadows
+Email: egestas@arcuVestibulum.net
+Phone Number: 771-451-0863
+Address: P.O. Box 658, 1754 Mus. Av., Belfast, Ulster, 3885
+ID: f67a8
+Date of Birth: Mon Sep 17 2001
+GPA: 2.7
+Joined: Thu Jun 11 2020
+
+-----COURSES----
+
+Course ID: CS1C
+Description: Introduction To Computer Science III
+Session ID: p2843
+
+
+Course ID: PHY4A
+Description: General Physics I
+Session ID: d1191
+
+
+Course ID: MATH3B
+Description: Calculus Two
+Session ID: u6472
+
+
+Course ID: ENG1B
+Description: Principles of Composition
+Session ID: g2032
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #26-----
+Name: Kaye  Schmidt
+Email: eu.elit.Nulla@risus.edu
+Phone Number: 118-530-8216
+Address: Ap #620-9249 Non, Av., Chimbote, Ancash, 61496
+ID: 5443d
+Date of Birth: Mon Mar 12 2001
+GPA: 3.4
+Joined: Mon Dec 07 2020
+
+-----COURSES----
+
+Course ID: CS1C
+Description: Introduction To Computer Science III
+Session ID: p2843
+
+
+Course ID: PHY4A
+Description: General Physics I
+Session ID: d1191
+
+
+Course ID: MATH26
+Description: Linear Algebra
+Session ID: e-182
+
+
+Course ID: ENG1B
+Description: Principles of Composition
+Session ID: g2032
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #27-----
+Name: Jessamine  Miles
+Email: purus@lacusAliquam.co.uk
+Phone Number: 358-862-5473
+Address: Ap #259-5812 Eget Avenue, Port Harcourt, Riyad, 5679
+ID: 552e0
+Date of Birth: Sun Mar 03 2002
+GPA: 4.0
+Joined: Fri Feb 01 2019
+
+-----COURSES----
+
+Course ID: CS1C
+Description: Introduction To Computer Science III
+Session ID: p2843
+
+
+Course ID: PHY4A
+Description: General Physics I
+Session ID: d1191
+
+
+Course ID: MATH3B
+Description: Calculus Two
+Session ID: u6472
+
+
+Course ID: ENG1B
+Description: Principles of Composition
+Session ID: g2032
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #28-----
+Name: Phillip  Shepherd
+Email: egestas.ligula.Nullam@Inatpede.co.uk
+Phone Number: 388-131-9638
+Address: 421-1390 Et Road, Estación Central, Madrid, 6003
+ID: 0fffa
+Date of Birth: Fri Jan 17 1997
+GPA: 1.7
+Joined: Tue Nov 09 2021
+
+-----COURSES----
+
+Course ID: CS1C
+Description: Introduction To Computer Science III
+Session ID: p2843
+
+
+Course ID: PHY4A
+Description: General Physics I
+Session ID: d1191
+
+
+Course ID: CS1A
+Description: Introduction To Computer Science I
+Session ID: f1754
+
+
+Course ID: ENG1B
+Description: Principles of Composition
+Session ID: g2032
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #29-----
+Name: Elvis  Flynn
+Email: In@tellusSuspendisse.com
+Phone Number: 419-223-8766
+Address: 9233 Velit Rd., Tumba, Stockholms län, 7189
+ID: e93e1
+Date of Birth: Fri Apr 21 2000
+GPA: 3.8
+Joined: Tue Feb 05 2019
+
+-----COURSES----
+
+Course ID: CS4A
+Description: Intro to Java Programming
+Session ID: j-174
+
+
+Course ID: CS1C
+Description: Introduction To Computer Science III
+Session ID: p2843
+
+
+Course ID: MATH26
+Description: Linear Algebra
+Session ID: h1750
+
+
+Course ID: ENG1B
+Description: Principles of Composition
+Session ID: g2032
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #30-----
+Name: Amal  Hancock
+Email: Aliquam@fermentum.co.uk
+Phone Number: 459-879-5019
+Address: 908-9220 Varius St., Huaral, Lima, 5620629
+ID: 0df22
+Date of Birth: Fri Jul 28 2000
+GPA: 4.0
+Joined: Tue Sep 10 2019
+
+-----COURSES----
+
+Course ID: CS1C
+Description: Introduction To Computer Science III
+Session ID: p2843
+
+
+Course ID: CS1A
+Description: Introduction To Computer Science I
+Session ID: f1754
+
+
+Course ID: PHY4B
+Description: General Physics II
+Session ID: c-240
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #31-----
+Name: Jarrod  Burns
+Email: lectus.rutrum.urna@idenimCurabitur.ca
+Phone Number: 449-554-1256
+Address: 6514 Aliquam Rd, Iquitos, Loreto, 35725
+ID: 75e13
+Date of Birth: Sun Jun 18 2000
+GPA: 4.0
+Joined: Sun May 05 2019
+
+-----COURSES----
+
+Course ID: CS4A
+Description: Intro to Java Programming
+Session ID: j-174
+
+
+Course ID: CS1C
+Description: Introduction To Computer Science III
+Session ID: p2843
+
+
+Course ID: MATH3B
+Description: Calculus Two
+Session ID: u6472
+
+
+Course ID: ENG1B
+Description: Principles of Composition
+Session ID: s-928
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #32-----
+Name: Rashad  Beck
+Email: rnare.egestas.ligula@lobortisClass.co.uk
+Phone Number: 571-133-4409
+Address: 208-2959 Vel Road, Huntsville, AL, 36980
+ID: 8f5ca
+Date of Birth: Mon Mar 11 2002
+GPA: 4.0
+Joined: Tue Feb 11 2020
+
+-----COURSES----
+
+Course ID: CS4A
+Description: Intro to Java Programming
+Session ID: j-174
+
+
+Course ID: CS1C
+Description: Introduction To Computer Science III
+Session ID: p2843
+
+
+Course ID: PHY4A
+Description: General Physics I
+Session ID: d1191
+
+
+Course ID: CS3B
+Description: Assembly Language
+Session ID: x1023
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #33-----
+Name: Lael Jean Russo
+Email: laelcoolWgmail.com
+Phone Number: 949-507-9873
+Address: Umbrella Coast street, Uberaba, Minas Gerais, 7576
+ID: 4b541
+Date of Birth: Sun Sep 10 2000
+GPA: 3.2
+Joined: Sat Oct 06 2018
+
+-----COURSES----
+
+Course ID: CS4A
+Description: Intro to Java Programming
+Session ID: j-174
+
+
+Course ID: CS1C
+Description: Introduction To Computer Science III
+Session ID: p1899
+
+
+Course ID: MATH26
+Description: Linear Algebra
+Session ID: h1750
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #34-----
+Name: Cailin Mike Dale
+Email: luctus.et@eunequepellentesque.ca
+Phone Number: 276-336-1241
+Address: P.O. Box 825, 1999 Dui. St., Piura, PIU, 29261
+ID: 90fe4
+Date of Birth: Sun Dec 31 2000
+GPA: 2.5
+Joined: Sun May 02 2021
+
+-----COURSES----
+
+Course ID: CS4A
+Description: Intro to Java Programming
+Session ID: j-174
+
+
+Course ID: CS1C
+Description: Introduction To Computer Science III
+Session ID: p1899
+
+
+Course ID: MATH26
+Description: Linear Algebra
+Session ID: h1750
+
+
+Course ID: ENG1B
+Description: Principles of Composition
+Session ID: s-928
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #35-----
+Name: Tatyana  Kirkland
+Email: lorem@velmaurisInteger.ca
+Phone Number: 120-596-5543
+Address: 9776 Tortor Ave, Masterton, NI, 779736
+ID: 7f9a5
+Date of Birth: Thu Jun 07 2001
+GPA: 3.9
+Joined: Thu Sep 05 2019
+
+-----COURSES----
+
+Course ID: CS4A
+Description: Intro to Java Programming
+Session ID: j-174
+
+
+Course ID: CS1C
+Description: Introduction To Computer Science III
+Session ID: p1899
+
+
+Course ID: CS1A
+Description: Introduction To Computer Science I
+Session ID: f1754
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #36-----
+Name: Halla  Mcconnell
+Email: risus@utdolordapibus.edu
+Phone Number: 476-470-7485
+Address: 679 Dolor Avenue, Canora, SK, 67584
+ID: cb73e
+Date of Birth: Mon Nov 09 1998
+GPA: 2.6
+Joined: Thu Jan 09 2020
+
+-----COURSES----
+
+Course ID: CS1C
+Description: Introduction To Computer Science III
+Session ID: p1899
+
+
+Course ID: PHY4A
+Description: General Physics I
+Session ID: d1191
+
+
+Course ID: MATH3A
+Description: Calculus One
+Session ID: r1013
+
+
+Course ID: ENG1B
+Description: Principles of Composition
+Session ID: s-928
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #37-----
+Name: Ivan Henry Nicholson
+Email: ipsum.primis@luctusutpellentesque.org
+Phone Number: 862-787-2895
+Address: 2520 Bibendum Rd., Mildura, VIC, 2936
+ID: c6d66
+Date of Birth: Mon Dec 20 1999
+GPA: 3.8
+Joined: Mon Mar 01 2021
+
+-----COURSES----
+
+Course ID: CS1C
+Description: Introduction To Computer Science III
+Session ID: p1899
+
+
+Course ID: CS1A
+Description: Introduction To Computer Science I
+Session ID: f1754
+
+
+Course ID: PHY4B
+Description: General Physics II
+Session ID: c-240
+
+
+Course ID: GD5
+Description: History of Animation
+Session ID: h1490
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #38-----
+Name: Wyoming Fue Thomas
+Email: id.libero@enimconsequatpurus.edu
+Phone Number: 358-213-9863
+Address: 1056 Eleifend Av., Wageningen, Gl, 408222
+ID: ae666
+Date of Birth: Mon Apr 09 2001
+GPA: 1.6
+Joined: Wed Nov 03 2021
+
+-----COURSES----
+
+Course ID: CS4A
+Description: Intro to Java Programming
+Session ID: j-174
+
+
+Course ID: CS1C
+Description: Introduction To Computer Science III
+Session ID: p1899
+
+
+Course ID: CS1A
+Description: Introduction To Computer Science I
+Session ID: f1754
+
+
+Course ID: GD5
+Description: History of Animation
+Session ID: h1490
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #39-----
+Name: Uta Jessamine Blankenship
+Email: luctus.Curabitur.egestas@nullaat.net
+Phone Number: 420-342-2981
+Address: 7344 Ornare St., Windermere, Westmorland, 10498
+ID: ca631
+Date of Birth: Fri Oct 08 1999
+GPA: 4.0
+Joined: Tue Feb 02 2021
+
+-----COURSES----
+
+Course ID: CS4A
+Description: Intro to Java Programming
+Session ID: j-174
+
+
+Course ID: CS1C
+Description: Introduction To Computer Science III
+Session ID: p1899
+
+
+Course ID: MATH26
+Description: Linear Algebra
+Session ID: h1750
+
+
+Course ID: BIO20
+Description: Intro to Biology
+Session ID: k1882
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #40-----
+Name: Lee Zenda Rowe
+Email: Etiam.ligula.tortor@ametluctus.net
+Phone Number: 322-429-2171
+Address: 3165 Dui. St., Owerri, IM, 154218
+ID: e4a12
+Date of Birth: Sun Feb 16 1997
+GPA: 2.4
+Joined: Sat Jan 02 2021
+
+-----COURSES----
+
+Course ID: CS4A
+Description: Intro to Java Programming
+Session ID: c1889
+
+
+Course ID: CS1C
+Description: Introduction To Computer Science III
+Session ID: p1899
+
+
+Course ID: MATH3A
+Description: Calculus One
+Session ID: r1013
+
+
+Course ID: GD5
+Description: History of Animation
+Session ID: h1490
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #41-----
+Name: Martina  Cole
+Email: convallis@adipiscing.com
+Phone Number: 342-980-2540
+Address: Ap #585-8325 Phasellus Avenue , Yumbel, Biobo, 21607
+ID: 46ef0
+Date of Birth: Sun Aug 10 1997
+GPA: 2.7
+Joined: Sun Sep 06 2020
+
+-----COURSES----
+
+Course ID: CS1C
+Description: Introduction To Computer Science III
+Session ID: p1899
+
+
+Course ID: MATH26
+Description: Linear Algebra
+Session ID: h1750
+
+
+Course ID: PHY4B
+Description: General Physics II
+Session ID: x-151
+
+
+Course ID: CS3B
+Description: Assembly Language
+Session ID: x1023
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #42-----
+Name: Mannix  Andrews
+Email: tincidunt@consectetuerrhoncusNullam.com
+Phone Number: 371-894-7728
+Address: 997-495 Nec Street, Wanaka, South Island, 690088
+ID: d90f4
+Date of Birth: Thu Jul 30 1998
+GPA: 3.0
+Joined: Sun Jul 07 2019
+
+-----COURSES----
+
+Course ID: CS4A
+Description: Intro to Java Programming
+Session ID: c1889
+
+
+Course ID: CS1C
+Description: Introduction To Computer Science III
+Session ID: p1899
+
+
+Course ID: MATH3A
+Description: Calculus One
+Session ID: r1013
+
+
+Course ID: BIO20
+Description: Intro to Biology
+Session ID: k1882
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #43-----
+Name: Lee Dix Fletcher
+Email: euismod.ac@viverra.com
+Phone Number: 590-046-1162
+Address: 372 Ornare Rd., Puno, Puno, 9379
+ID: f41c4
+Date of Birth: Sun Jan 09 2000
+GPA: 4.0
+Joined: Wed Jan 03 2018
+
+-----COURSES----
+
+Course ID: CS4A
+Description: Intro to Java Programming
+Session ID: c1889
+
+
+Course ID: CS1C
+Description: Introduction To Computer Science III
+Session ID: p1899
+
+
+Course ID: MATH3A
+Description: Calculus One
+Session ID: r1013
+
+
+Course ID: BIO20
+Description: Intro to Biology
+Session ID: k1882
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #44-----
+Name: Grace  Dodson
+Email: vel.convallis@NullamnislMaecenas.edu
+Phone Number: 181-265-5897
+Address: P.O. Box 383, 1559 Taciti Road, Chiclayo, Lambayeque, 43209
+ID: b4d7f
+Date of Birth: Wed Jun 26 2002
+GPA: 4.0
+Joined: Sat Jul 03 2021
+
+-----COURSES----
+
+Course ID: CS1C
+Description: Introduction To Computer Science III
+Session ID: p1899
+
+
+Course ID: PHY4A
+Description: General Physics I
+Session ID: d1191
+
+
+Course ID: MATH26
+Description: Linear Algebra
+Session ID: h1750
+
+
+Course ID: BIO20
+Description: Intro to Biology
+Session ID: k1882
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #45-----
+Name: Rajah  Lott
+Email: ut.sem.Nulla@nuncullamcorper.edu
+Phone Number: 547-303-3087
+Address: P.O. Box 257, 3614 Nunc Ave , Swat, KPK, 49508
+ID: 5b1c1
+Date of Birth: Wed Aug 06 1997
+GPA: 2.5
+Joined: Thu Dec 05 2019
+
+-----COURSES----
+
+Course ID: CS4A
+Description: Intro to Java Programming
+Session ID: c1889
+
+
+Course ID: CS1C
+Description: Introduction To Computer Science III
+Session ID: p1899
+
+
+Course ID: MATH3A
+Description: Calculus One
+Session ID: r1013
+
+
+Course ID: BIO20
+Description: Intro to Biology
+Session ID: k1882
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #46-----
+Name: Kylan  Davidson
+Email: penatibus.et.magnis@sociis.com
+Phone Number: 681-144-3921
+Address: 502 Cras St., Ajax, ON, 62457
+ID: 14282
+Date of Birth: Wed Jun 24 1998
+GPA: 3.2
+Joined: Sun Apr 11 2021
+
+-----COURSES----
+
+Course ID: CS4A
+Description: Intro to Java Programming
+Session ID: c1889
+
+
+Course ID: CS1C
+Description: Introduction To Computer Science III
+Session ID: p1899
+
+
+Course ID: MATH3A
+Description: Calculus One
+Session ID: r1013
+
+
+Course ID: BIO20
+Description: Intro to Biology
+Session ID: k1882
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #47-----
+Name: Lamar Dim Sullivan
+Email: nec.eleifend@egestasrhoncus.co.uk
+Phone Number: 876-797-8231
+Address: 9823 Ac St., Cheongju, North Gyeongsang, 17764
+ID: d5b9c
+Date of Birth: Tue Aug 31 1999
+GPA: 2.8
+Joined: Tue Oct 09 2018
+
+-----COURSES----
+
+Course ID: CS1C
+Description: Introduction To Computer Science III
+Session ID: p1899
+
+
+Course ID: MATH3A
+Description: Calculus One
+Session ID: r1013
+
+
+Course ID: PHY4B
+Description: General Physics II
+Session ID: x-151
+
+
+Course ID: CS3B
+Description: Assembly Language
+Session ID: x1023
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #48-----
+Name: Nomlanga  Wilkins
+Email: sem.eget@vestibulumMauris.org
+Phone Number: 416-906-8764
+Address: 5809 Phasellus Ave, Cajamarca, Cajamarca, 884977
+ID: 5f762
+Date of Birth: Sun Jan 27 2002
+GPA: 2.5
+Joined: Thu Apr 09 2020
+
+-----COURSES----
+
+Course ID: CS4A
+Description: Intro to Java Programming
+Session ID: c1889
+
+
+Course ID: CS1C
+Description: Introduction To Computer Science III
+Session ID: h-113
+
+
+Course ID: MATH26
+Description: Linear Algebra
+Session ID: h1750
+
+
+Course ID: BIO20
+Description: Intro to Biology
+Session ID: k1882
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #49-----
+Name: Thaddeus  Clayton
+Email: amet.consectetue@Morbisitamet.co.uk
+Phone Number: 997-351-3749
+Address: 1721 Duis St. Hattian , Bala Azad, Kashmir, 27955
+ID: 1c049
+Date of Birth: Tue Jun 02 1998
+GPA: 3.8
+Joined: Mon Jan 04 2021
+
+-----COURSES----
+
+Course ID: CS1C
+Description: Introduction To Computer Science III
+Session ID: h-113
+
+
+Course ID: PHY4A
+Description: General Physics I
+Session ID: d1191
+
+
+Course ID: MATH26
+Description: Linear Algebra
+Session ID: h1750
+
+
+Course ID: BIO20
+Description: Intro to Biology
+Session ID: u1596
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #50-----
+Name: Amber  Mercado
+Email: Phasellus.elit.pede@acturpis.org
+Phone Number: 894-368-0648
+Address: 9939 Fusce Avenue, Coquitlam, Brisbane, 27273
+ID: 7cc18
+Date of Birth: Fri Feb 26 1999
+GPA: 3.7
+Joined: Thu Jul 09 2020
+
+-----COURSES----
+
+Course ID: CS4A
+Description: Intro to Java Programming
+Session ID: c1889
+
+
+Course ID: CS1C
+Description: Introduction To Computer Science III
+Session ID: h-113
+
+
+Course ID: MATH26
+Description: Linear Algebra
+Session ID: h1750
+
+
+Course ID: BIO20
+Description: Intro to Biology
+Session ID: u1596
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #51-----
+Name: Quail Fabi Silva
+Email: Vivamus.euismod@penatibuset.co.uk
+Phone Number: 980-238-2189
+Address: 8893 Neque Road, Jönköping, Jönköpings, 45526
+ID: df0ba
+Date of Birth: Thu Dec 05 2002
+GPA: 4.0
+Joined: Sun Aug 12 2018
+
+-----COURSES----
+
+Course ID: CS4A
+Description: Intro to Java Programming
+Session ID: c1889
+
+
+Course ID: CS1C
+Description: Introduction To Computer Science III
+Session ID: h-113
+
+
+Course ID: MATH26
+Description: Linear Algebra
+Session ID: h1750
+
+
+Course ID: BIO20
+Description: Intro to Biology
+Session ID: u1596
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #52-----
+Name: Simon  Herring
+Email: tempor.augue@interdumenim.co.uk 
+Phone Number: 414-344-2489
+Address: 3052 Cras Av. , Dunfermline , Fife, 928434
+ID: 8088a
+Date of Birth: Sat Sep 30 2000
+GPA: 2.7
+Joined: Thu Apr 09 2020
+
+-----COURSES----
+
+Course ID: CS1C
+Description: Introduction To Computer Science III
+Session ID: h-113
+
+
+Course ID: MATH26
+Description: Linear Algebra
+Session ID: h1750
+
+
+Course ID: PHY4B
+Description: General Physics II
+Session ID: x-151
+
+
+Course ID: BIO20
+Description: Intro to Biology
+Session ID: u1596
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #53-----
+Name: Fleur  Kline
+Email: porttitor.eros@Nullainterdum.net
+Phone Number: 476-856-7961
+Address: 1276 Nascetur Road, Rio Grande, Rio Grande do Sul, 28278
+ID: a2423
+Date of Birth: Thu Jul 13 2000
+GPA: 1.7
+Joined: Sun Jan 05 2020
+
+-----COURSES----
+
+Course ID: CS4A
+Description: Intro to Java Programming
+Session ID: c1889
+
+
+Course ID: CS1C
+Description: Introduction To Computer Science III
+Session ID: h-113
+
+
+Course ID: CS1A
+Description: Introduction To Computer Science I
+Session ID: k8239
+
+
+Course ID: BIO20
+Description: Intro to Biology
+Session ID: u1596
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #54-----
+Name: Marcia  Pierce
+Email: adipiscing@apurus.net
+Phone Number: 354-679-5388
+Address: 754 Donec Rd., Radom, MA, 792798
+ID: 7b81a
+Date of Birth: Mon May 27 2002
+GPA: 2.5
+Joined: Sat Jan 02 2021
+
+-----COURSES----
+
+Course ID: CS4A
+Description: Intro to Java Programming
+Session ID: c1889
+
+
+Course ID: CS1C
+Description: Introduction To Computer Science III
+Session ID: h-113
+
+
+Course ID: MATH3A
+Description: Calculus One
+Session ID: r1013
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #55-----
+Name: Tarik  Gould
+Email: urna@posuere.co.uk
+Phone Number: 840-485-9074
+Address: 7823 Erat, Rd., Dublin, Leinster, 34850
+ID: 364cb
+Date of Birth: Sun Jun 07 1998
+GPA: 3.5
+Joined: Mon Jan 10 2022
+
+-----COURSES----
+
+Course ID: CS1C
+Description: Introduction To Computer Science III
+Session ID: h-113
+
+
+Course ID: PHY4A
+Description: General Physics I
+Session ID: d1191
+
+
+Course ID: CS1A
+Description: Introduction To Computer Science I
+Session ID: k8239
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #56-----
+Name: Teagan  Gamble
+Email: odio.tristique@purusmaurisa.edu
+Phone Number: 719-601-5611
+Address: 484 Proin St., Málaga, Andrea, 8613
+ID: 85946
+Date of Birth: Thu Aug 15 2002
+GPA: 3.6
+Joined: Wed Jan 01 2020
+
+-----COURSES----
+
+Course ID: CS1C
+Description: Introduction To Computer Science III
+Session ID: h-113
+
+
+Course ID: MATH26
+Description: Linear Algebra
+Session ID: h1750
+
+
+Course ID: CS4B
+Description: Advanced Topics In Java Programming
+Session ID: q1614
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #57-----
+Name: Maris  Reid
+Email: Etiam.ligula@ultrices.edu
+Phone Number: 751-704-7776
+Address: 28 Phasellus St., Carlton, New Brunswick, 57499
+ID: 3be57
+Date of Birth: Mon Oct 06 1997
+GPA: 1.7
+Joined: Sun Feb 02 2020
+
+-----COURSES----
+
+Course ID: CS4A
+Description: Intro to Java Programming
+Session ID: c1889
+
+
+Course ID: CS1C
+Description: Introduction To Computer Science III
+Session ID: h-113
+
+
+Course ID: CS1A
+Description: Introduction To Computer Science I
+Session ID: k8239
+
+
+Course ID: CS3B
+Description: Assembly Language
+Session ID: x1023
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #58-----
+Name: Naomi  Whitley
+Email: dolor.sit.amet@ac.org
+Phone Number: 034-709-9181
+Address: 37978 Elit Street, Tortel, New Hampshire, 876124
+ID: b70f4
+Date of Birth: Thu Sep 27 2001
+GPA: 1.8
+Joined: Fri Dec 03 2021
+
+-----COURSES----
+
+Course ID: CS4A
+Description: Intro to Java Programming
+Session ID: c1889
+
+
+Course ID: CS1C
+Description: Introduction To Computer Science III
+Session ID: h-113
+
+
+Course ID: CS4B
+Description: Advanced Topics In Java Programming
+Session ID: q1614
+
+
+Course ID: CS1A
+Description: Introduction To Computer Science I
+Session ID: k8239
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #59-----
+Name: Tanner  Lott
+Email: eleifend.nec@co.uk
+Phone Number: 055-329-4101
+Address: 2202 Luctus Rd., Buguma , Rivers, 92757
+ID: 3b609
+Date of Birth: Fri Mar 05 1999
+GPA: 2.9
+Joined: Fri Jun 01 2018
+
+-----COURSES----
+
+Course ID: CS4A
+Description: Intro to Java Programming
+Session ID: c1889
+
+
+Course ID: CS1C
+Description: Introduction To Computer Science III
+Session ID: h-113
+
+
+Course ID: MATH3C
+Description: Calculus Three
+Session ID: y1810
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #60-----
+Name: Duncan  Sexton
+Email: natoque@parturientmontesnascetur.edu
+Phone Number: 508-563-8741
+Address: P.O. Box 189, 1510 Diam. Rd., Caplan, QC, 1599
+ID: f555d
+Date of Birth: Tue Feb 29 2000
+GPA: 1.7
+Joined: Fri Nov 05 2021
+
+-----COURSES----
+
+Course ID: CS1C
+Description: Introduction To Computer Science III
+Session ID: h-113
+
+
+Course ID: MATH3C
+Description: Calculus Three
+Session ID: y1810
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #61-----
+Name: Jessica  Kennedy
+Email: et.malesuada@luctusfelis.net
+Phone Number: 534-977-3697
+Address: 3142 Dictum Rd, Upplands, Väsby, 97108
+ID: ccfec
+Date of Birth: Mon Jul 19 1999
+GPA: 2.8
+Joined: Fri Dec 03 2021
+
+-----COURSES----
+
+Course ID: CS1C
+Description: Introduction To Computer Science III
+Session ID: h-113
+
+
+Course ID: PHY4A
+Description: General Physics I
+Session ID: d1191
+
+
+Course ID: MATH26
+Description: Linear Algebra
+Session ID: h1750
+
+
+Course ID: BIO20
+Description: Intro to Biology
+Session ID: u1596
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #62-----
+Name: Zoe  Sullivan
+Email: sem@Mauris.ca
+Phone Number: 781-633-4265
+Address: 640 Parturient St., Albury, NSW, 736707
+ID: f8bfc
+Date of Birth: Mon Sep 22 1997
+GPA: 3.6
+Joined: Mon Jul 02 2018
+
+-----COURSES----
+
+Course ID: CS4A
+Description: Intro to Java Programming
+Session ID: c1889
+
+
+Course ID: MATH26
+Description: Linear Algebra
+Session ID: h1750
+
+
+Course ID: CS1B
+Description: Introduction To Computer Science II
+Session ID: x8897
+
+
+Course ID: PHY4C
+Description: General Physics III
+Session ID: m1034
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #63-----
+Name: Montana  Harmon
+Email: Donec.tempus.lorem@nisi.ca
+Phone Number: 087-788-3290
+Address: 3861 Aenean Street, Columbus, Ohio, 21279
+ID: 41d17
+Date of Birth: Fri Jan 24 1997
+GPA: 3.9
+Joined: Fri Jan 11 2019
+
+-----COURSES----
+
+Course ID: PHY4A
+Description: General Physics I
+Session ID: p3911
+
+
+Course ID: MATH3A
+Description: Calculus One
+Session ID: r1013
+
+
+Course ID: CS4B
+Description: Advanced Topics In Java Programming
+Session ID: q1614
+
+
+Course ID: MATH2
+Description: Pre Calculus
+Session ID: a7466
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #64-----
+Name: Ezra  King
+Email: Phasellus.nulla.Integer@Craseu.org
+Phone Number: 816-720-9445
+Address: P.O. Box 113, 6556 Eget Avenue, Sokoto, Southside, 805078
+ID: 28ad4
+Date of Birth: Fri Jun 20 1997
+GPA: 3.2
+Joined: Fri Dec 04 2020
+
+-----COURSES----
+
+Course ID: CS4A
+Description: Intro to Java Programming
+Session ID: c1889
+
+
+Course ID: MATH3A
+Description: Calculus One
+Session ID: r1013
+
+
+Course ID: PHY4C
+Description: General Physics III
+Session ID: m1034
+
+
+Course ID: GD5
+Description: History of Animation
+Session ID: h1490
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #65-----
+Name: Leila Moas Hutchinson
+Email: molestie@liberoIntegerin.com
+Phone Number: 661-066-3695
+Address: Ap #425-7363 Euismod Rd., Vetlanda, Farifiled, 69443
+ID: 6a9a4
+Date of Birth: Thu Jan 30 1997
+GPA: 3.6
+Joined: Fri Nov 02 2018
+
+-----COURSES----
+
+Course ID: CS1C
+Description: Introduction To Computer Science III
+Session ID: h-113
+
+
+Course ID: MATH3C
+Description: Calculus Three
+Session ID: y1810
+
+
+Course ID: CS1B
+Description: Introduction To Computer Science II
+Session ID: x8897
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #66-----
+Name: Kirestin Rodri Whitney
+Email: est.tempor@placeratvelit.edu
+Phone Number: 045-649-7814
+Address: 3903 Ornare Avenue, Dublin, Ireland, 22658
+ID: eb077
+Date of Birth: Mon May 15 2000
+GPA: 3.7
+Joined: Tue Oct 08 2019
+
+-----COURSES----
+
+Course ID: MATH3C
+Description: Calculus Three
+Session ID: y1810
+
+
+Course ID: PHY4B
+Description: General Physics II
+Session ID: x-151
+
+
+Course ID: GD5
+Description: History of Animation
+Session ID: h1490
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #67-----
+Name: Cherokee  Lambert
+Email: neque.non.quam@etcommodoat.org
+Phone Number: 666-377-5912
+Address: Ap #456-8579 Ac St., Frankston, VIC, 978644
+ID: a54bc
+Date of Birth: Sun Aug 06 2000
+GPA: 4.0
+Joined: Sat Jul 11 2020
+
+-----COURSES----
+
+Course ID: MATH3C
+Description: Calculus Three
+Session ID: y1810
+
+
+Course ID: MATH2
+Description: Pre Calculus
+Session ID: a7466
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #68-----
+Name: Alan  Richmond
+Email: turpis.vitae@molestiein.org
+Phone Number: 764-580-7132
+Address: P.O. Box 751, 3797 Sagittis. Rd., Semarang, JT, 15401
+ID: 02bed
+Date of Birth: Wed Nov 15 2000
+GPA: 4.0
+Joined: Wed Nov 04 2020
+
+-----COURSES----
+
+Course ID: MATH26
+Description: Linear Algebra
+Session ID: h1750
+
+
+Course ID: MATH3A
+Description: Calculus One
+Session ID: r1013
+
+
+Course ID: CS4B
+Description: Advanced Topics In Java Programming
+Session ID: q1614
+
+
+Course ID: CS1A
+Description: Introduction To Computer Science I
+Session ID: k8239
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #69-----
+Name: Carolyn  Graham
+Email: in.faucibus.orci@necquamCurabitur.net
+Phone Number: 780-639-6784
+Address: 340-7036 Auctor Rd., Tonalá, Jal, 42198
+ID: 1dd80
+Date of Birth: Tue Apr 07 1998
+GPA: 3.2
+Joined: Wed Mar 03 2021
+
+-----COURSES----
+
+Course ID: PHY4C
+Description: General Physics III
+Session ID: m1034
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #71-----
+Name: Cailin  Oneil
+Email: parturient.montes@usipsum.org
+Phone Number: 210-879-9796
+Address: 184 Nisi St., Vallentuna, Stockholms, 43397
+ID: 34c12
+Date of Birth: Fri Feb 11 2000
+GPA: 4.0
+Joined: Mon May 04 2020
+
+-----COURSES----
+
+Course ID: ENG1A
+Description: Principles of Composition
+Session ID: f-159
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #72-----
+Name: Veronica  Lloyd
+Email: et.rutrum@odiosempercursus.ca
+Phone Number: 643-362-3543
+Address: 1819 Orci Avenue, Mercedes, Hornets, 61797
+ID: e8aa0
+Date of Birth: Sat May 01 1999
+GPA: 4.0
+Joined: Fri Mar 08 2019
+
+-----COURSES----
+
+Course ID: MATH3A
+Description: Calculus One
+Session ID: r1013
+
+
+Course ID: MATH3C
+Description: Calculus Three
+Session ID: y1810
+
+
+Course ID: CS3B
+Description: Assembly Language
+Session ID: x1023
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #73-----
+Name: Linda Ferris Sargent
+Email: amet.consectetuer.adipiscing@vel.co.uk
+Phone Number: 427-971-4449
+Address: 5658 Ligula Av., Baricella, ERM, 4196
+ID: 6699e
+Date of Birth: Thu Jan 31 2002
+GPA: 2.7
+Joined: Sat Apr 03 2021
+
+-----COURSES----
+
+Course ID: MATH3C
+Description: Calculus Three
+Session ID: y1810
+
+
+Course ID: MATH2
+Description: Pre Calculus
+Session ID: a7466
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #74-----
+Name: Isaac Louis Velasquez
+Email: eu.euismod@etipsum.org
+Phone Number: 414-713-0211
+Address: 2134 Ut Av., Dublin, Laos, 94632
+ID: eff13
+Date of Birth: Mon Dec 04 2000
+GPA: 3.8
+Joined: Thu Sep 03 2020
+
+-----COURSES----
+
+Course ID: MATH3C
+Description: Calculus Three
+Session ID: y1810
+
+
+Course ID: CS4B
+Description: Advanced Topics In Java Programming
+Session ID: q1614
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #75-----
+Name: Yardley  Barrera
+Email: Phasellus.dolor.elit@semPellentesque.ca
+Phone Number: 698-832-3793
+Address: 4378 Diam Street, Katowice, SL, 36126
+ID: 4f3ea
+Date of Birth: Sun Aug 08 1999
+GPA: 2.6
+Joined: Sat Nov 30 2019
+
+-----COURSES----
+
+Course ID: MATH3C
+Description: Calculus Three
+Session ID: y1810
+
+
+Course ID: PHY4C
+Description: General Physics III
+Session ID: m1034
+
+
+Course ID: MATH2
+Description: Pre Calculus
+Session ID: a7466
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #76-----
+Name: Melissa  Contreras
+Email: odio.auctor.vitae@maurisa.ca
+Phone Number: 277-711-5966
+Address: 8120 Cras Rd., San Rafael, Rennes, 72811
+ID: d0cef
+Date of Birth: Tue Aug 20 2002
+GPA: 1.9
+Joined: Fri Apr 05 2019
+
+-----COURSES----
+
+Course ID: MATH3C
+Description: Calculus Three
+Session ID: t8838
+
+
+Course ID: MATH2
+Description: Pre Calculus
+Session ID: a7466
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #77-----
+Name: Robert  Pruitt
+Email: Aliquam.ornare@Utsagittislobortis.edu
+Phone Number: 600-914-5414
+Address: 4170 Varius. Ave, Doñihue, Virginia, 5704
+ID: d076a
+Date of Birth: Sat Nov 16 2002
+GPA: 3.6
+Joined: Fri Nov 02 2018
+
+-----COURSES----
+
+Course ID: MATH3A
+Description: Calculus One
+Session ID: r1013
+
+
+Course ID: MATH2
+Description: Pre Calculus
+Session ID: a7466
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #78-----
+Name: Forrest Winston Baxter
+Email: non.enim.commodo@tristiquealiquet.edu
+Phone Number: 684-330-5042
+Address: 2911 Ipsum Rd., Brahmapur, Odisha, 92830
+ID: 876e6
+Date of Birth: Tue Aug 11 1998
+GPA: 3.8
+Joined: Sat Apr 11 2020
+
+-----COURSES----
+
+Course ID: MATH3A
+Description: Calculus One
+Session ID: r1013
+
+
+Course ID: CS1A
+Description: Introduction To Computer Science I
+Session ID: k8239
+
+
+Course ID: ENG1A
+Description: Principles of Composition
+Session ID: e2099
+
+
+Course ID: MATH2
+Description: Pre Calculus
+Session ID: a7466
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #79-----
+Name: Ella  Guzman
+Email: erat.Etiam@mollislectus.ca
+Phone Number: 837-645-1509
+Address: 6119 Ut Avenue, Göksun, Kah, 41942
+ID: 5ed45
+Date of Birth: Tue Oct 20 1998
+GPA: 3.5
+Joined: Fri May 06 2022
+
+-----COURSES----
+
+Course ID: CS1B
+Description: Introduction To Computer Science II
+Session ID: x8897
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #80-----
+Name: Kasimir  Allen
+Email: est.Mauris.eu@acrisus.edu
+Phone Number: 741-249-7973
+Address: 2644 Augue Rd., Hyderabad, Andar Pradesh, 34568
+ID: c0708
+Date of Birth: Wed Mar 24 1999
+GPA: 3.0
+Joined: Wed Nov 11 2020
+
+-----COURSES----
+
+Course ID: MATH3A
+Description: Calculus One
+Session ID: r1013
+
+
+Course ID: CS1B
+Description: Introduction To Computer Science II
+Session ID: x8897
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #81-----
+Name: Barry Ellis Mills
+Email: mi.lorem@maurisutmi.net
+Phone Number: 268-191-2894
+Address: 8573 Semper Rd, Sahiwal, Punjab, 18594
+ID: 5cd95
+Date of Birth: Wed Apr 18 2001
+GPA: 4.0
+Joined: Mon Jul 09 2018
+
+-----COURSES----
+
+Course ID: CS1B
+Description: Introduction To Computer Science II
+Session ID: x8897
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #82-----
+Name: Tanner  Huber
+Email: egestas.Sed@mollis.co.uk
+Phone Number: 209-828-7053
+Address: 3062 Et Av., Medellín, Antioquia, 93702
+ID: 0dc3c
+Date of Birth: Tue Mar 02 1999
+GPA: 2.7
+Joined: Wed Sep 02 2020
+
+-----COURSES----
+
+Course ID: CS1B
+Description: Introduction To Computer Science II
+Session ID: x8897
+
+
+Course ID: ENG1A
+Description: Principles of Composition
+Session ID: e2099
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #83-----
+Name: Grant  Jensen
+Email: eu@ultricesiaculis.com
+Phone Number: 337-441-5508
+Address: 2712 Ultrices Rd., Dongducheon, Gyeonggi, 45675
+ID: e4768
+Date of Birth: Sat May 05 2001
+GPA: 4.0
+Joined: Wed Mar 09 2022
+
+-----COURSES----
+
+Course ID: CS1B
+Description: Introduction To Computer Science II
+Session ID: x8897
+
+
+Course ID: MATH2
+Description: Pre Calculus
+Session ID: a7466
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #84-----
+Name: Wynne  Avila
+Email: neque.tellus.imperdiet@colutpat.com
+Phone Number: 201-838-1712
+Address: 2523 Ac Rd. Nowshera, Khyber, Pakhtoonkhwa, 27682
+ID: ea364
+Date of Birth: Fri Jan 11 2002
+GPA: 3.6
+Joined: Wed Mar 06 2019
+
+-----COURSES----
+
+Course ID: PHY4C
+Description: General Physics III
+Session ID: m1034
+
+
+Course ID: MATH2
+Description: Pre Calculus
+Session ID: k1479
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #85-----
+Name: Ivy Won Rhodes
+Email: pretium.neque@sollicitudinorcisem.ca
+Phone Number: 479-996-1720
+Address: Ap #864-6723 Massa Av., Bogor West, Java, 18792
+ID: 05454
+Date of Birth: Sat Jun 27 1998
+GPA: 2.8
+Joined: Sun Jun 02 2019
+
+-----COURSES----
+
+Course ID: CS3A
+Description: Machine Language
+Session ID: k1479
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #86-----
+Name: Cullen Illaya Gates
+Email: Nunc@placeratCras.org
+Phone Number: 390-083-0514
+Address: 137 Aliquam Rd, Torrejón, Massachutates, 618523
+ID: 01b08
+Date of Birth: Wed Jul 16 1997
+GPA: 2.8
+Joined: Thu Mar 04 2021
+
+-----COURSES----
+
+Course ID: CS1B
+Description: Introduction To Computer Science II
+Session ID: x8897
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #87-----
+Name: Bikram Prasad Gates
+Email: bikram999@gmail.com
+Phone Number: 310-056-7814
+Address: 2345 Aliso Creek, Aliso Viejo, California, 92656
+ID: 8f46d
+Date of Birth: Sun Nov 15 1998
+GPA: 3.8
+Joined: Thu Mar 04 2021
+
+-----COURSES----
+
+Course ID: PHY4C
+Description: General Physics III
+Session ID: m1034
+
+
+Course ID: GD5
+Description: History of Animation
+Session ID: k1479
+
+
+Course ID: MATH2
+Description: Pre Calculus
+Session ID: h1490
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #88-----
+Name: Prasad  Singh
+Email: bsingh@gmail.com
+Phone Number: 123-456-7814
+Address: 3412 Aliso Creek, Aliso Viejo, California, 92656
+ID: 0a9da
+Date of Birth: Wed Jul 07 1999
+GPA: 3.8
+Joined: Wed Nov 04 2020
+
+-----COURSES----
+
+Course ID: CS1B
+Description: Introduction To Computer Science II
+Session ID: x8897
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #89-----
+Name: Kim Jong Nunc
+Email: kinmjon@yahoo.com
+Phone Number: 123-987-0984
+Address: 3412 Aliso Viejo, Aliso Viejo, California, 92656
+ID: d4812
+Date of Birth: Sun Nov 07 1999
+GPA: 4.0
+Joined: Fri Dec 04 2020
+
+-----COURSES----
+
+Course ID: MATH3C
+Description: Calculus Three
+Session ID: t8838
+
+
+Course ID: CS1B
+Description: Introduction To Computer Science II
+Session ID: x8897
+
+
+Course ID: GD5
+Description: History of Animation
+Session ID: k1479
+
+
+Course ID: CS3A
+Description: Machine Language
+Session ID: h1490
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #90-----
+Name: Harry  Kane
+Email: kaneson@yahoo.com
+Phone Number: 123-987-1234
+Address: 5646 Tottenham, Spurs, UK, 926214
+ID: 89292
+Date of Birth: Sun Nov 11 2001
+GPA: 4.0
+Joined: Tue Dec 04 2012
+
+-----COURSES----
+
+Course ID: GD5
+Description: History of Animation
+Session ID: k1479
+
+
+Course ID: MATH2
+Description: Pre Calculus
+Session ID: h1490
+
+
+Course ID: CS3A
+Description: Machine Language
+Session ID: j-114
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #91-----
+Name: Heuing Mein Son
+Email: son999@yahoo.com
+Phone Number: 123-123-1234
+Address: 5646 Tottenham, Spurs, UK, 926214
+ID: 620f0
+Date of Birth: Sun Jul 07 2002
+GPA: 4.0
+Joined: Tue Dec 04 2012
+
+-----COURSES----
+
+Course ID: GD5
+Description: History of Animation
+Session ID: k1479
+
+
+Course ID: CS3A
+Description: Machine Language
+Session ID: h1490
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #92-----
+Name: Bruno  Fernandes
+Email: brunomanu@yahoo.com
+Phone Number: 201-213-1234
+Address: 2147 Manu, Manchester, UK, 926212
+ID: 6f42a
+Date of Birth: Tue May 15 2001
+GPA: 4.0
+Joined: Tue Dec 01 2020
+
+-----COURSES----
+
+Course ID: PHY4C
+Description: General Physics III
+Session ID: m1034
+
+
+Course ID: MATH2
+Description: Pre Calculus
+Session ID: j-114
+
+
+Course ID: CS3A
+Description: Machine Language
+Session ID: d5050
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #93-----
+Name: Paul  Pogba
+Email: paulmanu@yahoo.com
+Phone Number: 201-213-1212
+Address: 2147 Manu, Manchester, UK, 926212
+ID: 75613
+Date of Birth: Sat May 11 1996
+GPA: 4.0
+Joined: Sun Feb 02 2020
+
+-----COURSES----
+
+Course ID: GD5
+Description: History of Animation
+Session ID: h1490
+
+
+Course ID: CS3A
+Description: Machine Language
+Session ID: a1983
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #94-----
+Name: Marcus   Rashford
+Email: rashfordmanu@yahoo.com
+Phone Number: 201-442-1212
+Address: 2147 Manunited, Manchester, UK, 92241
+ID: e6a0d
+Date of Birth: Fri Mar 10 1967
+GPA: 3.0
+Joined: Tue Feb 02 2010
+
+-----COURSES----
+
+Course ID: MATH2
+Description: Pre Calculus
+Session ID: j-114
+
+
+Course ID: CS3A
+Description: Machine Language
+Session ID: a1983
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #96-----
+Name: Antony  Martial
+Email: tonya@gmail.com
+Phone Number: 201-411-1212
+Address: Parce de Prince, Paris, Paris, 1241
+ID: 2bc1a
+Date of Birth: Sat Aug 03 1957
+GPA: 3.0
+Joined: Wed Feb 02 2005
+
+-----COURSES----
+
+Course ID: PHY4C
+Description: General Physics III
+Session ID: m1034
+
+
+Course ID: ENG1A
+Description: Principles of Composition
+Session ID: e2099
+
+
+Course ID: CS3A
+Description: Machine Language
+Session ID: d5050
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #97-----
+Name: Marcus  Rashboi
+Email: asfasfdmanu@yahoo.com
+Phone Number: 201-424-1212
+Address: 2091 Sporting, Ukraine, Belgium, 92123
+ID: e002b
+Date of Birth: Fri Feb 09 2001
+GPA: 3.0
+Joined: Sat Nov 02 2019
+
+-----COURSES----
+
+Course ID: PHY4C
+Description: General Physics III
+Session ID: m1034
+
+
+Course ID: ENG1A
+Description: Principles of Composition
+Session ID: e2099
+
+
+Course ID: GD5
+Description: History of Animation
+Session ID: h1490
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #98-----
+Name: Bobby  Firmino
+Email: bobby999@yahoo.com
+Phone Number: 284-184-8231
+Address: 1428 Liverpool, Liverpool, UK, 92123
+ID: 119b7
+Date of Birth: Thu Feb 11 1982
+GPA: 3.5
+Joined: Wed Feb 02 2011
+
+-----COURSES----
+
+Course ID: ENG1A
+Description: Principles of Composition
+Session ID: e2099
+
+
+Course ID: MATH2
+Description: Pre Calculus
+Session ID: j-114
+
+
+Course ID: CS3A
+Description: Machine Language
+Session ID: d5050
+
+-------------------------------------------------------------------------
+
+
+-----STUDENT #99-----
+Name: Mo  Salah
+Email: mosalahu@yahoo.com
+Phone Number: 109-102-9187
+Address: Parc de Prince, Paris, France, 1234
+ID: e38a3
+Date of Birth: Sun May 04 1980
+GPA: 4.0
+Joined: Wed Nov 02 2005
+
+-----COURSES----
+
+Course ID: PHY4C
+Description: General Physics III
+Session ID: m1034
+
+
+Course ID: ENG1A
+Description: Principles of Composition
+Session ID: e2099
+
+
+Course ID: CS3A
+Description: Machine Language
+Session ID: d5050
+
+-------------------------------------------------------------------------
+

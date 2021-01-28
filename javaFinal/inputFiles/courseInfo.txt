@@ -1,0 +1,146 @@
+CS
+4A
+Intro to Java Programming
+2
+30
+5
+
+CS
+1C
+Introduction To Computer Science III
+3
+45
+5
+
+PHY
+4A
+General Physics I
+3
+30
+10
+
+MATH
+26
+Linear Algebra
+2
+30
+15
+
+MATH
+3A
+Calculus One
+2
+30
+10
+
+MATH
+3B
+Calculus Two
+2
+30
+10
+
+MATH
+3C
+Calculus Three
+2
+30
+10
+
+CS
+4B
+Advanced Topics In Java Programming
+1
+15
+5
+
+CS
+1A
+Introduction To Computer Science I
+2
+20
+5
+
+CS
+1B
+Introduction To Computer Science II
+1
+10
+5
+
+PHY
+4B
+General Physics II
+2
+25
+10
+
+PHY
+4C
+General Physics III
+2
+25
+10
+
+ENG
+1A
+Principles of Composition
+2
+20
+10
+
+ENG
+1B
+Principles of Composition
+2
+20
+5
+
+ARCH
+12
+History of Architecture
+1
+30
+10
+
+BIO
+20
+Intro to Biology
+2
+15
+5
+
+GD
+5
+History of Animation
+1
+25
+10
+
+MATH
+2
+Pre Calculus
+2
+20
+10
+
+SOC
+1
+Intro to Sociology
+1
+20
+10
+
+CS
+3A
+Machine Language
+1
+20
+5
+
+CS
+3B
+Assembly Language
+1
+20
+5

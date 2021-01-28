@@ -1,0 +1,510 @@
+---------------------------------------------------------------------------
+-------------------------------FACULTY LIST--------------------------------
+---------------------------------------------------------------------------
+
+
+-----FACULTY#1------
+Name: Michelle Mary Rosseau
+Email: michelle999@yahoo.com
+Phone Number: 949-999-0000
+Address: 2800 Saddleback Ln, Mission Viejo, California, 92653
+ID: bf039
+Joined: Fri Aug 04 2000
+Status: Tenured
+
+-----COURSES#1-----
+Course: CS1A
+Description: Introduction To Computer Science I
+Number of Students Allowed to Join: 20
+Minimum Number of Students Needed: 5
+Initial Number Of Sessions: 2
+Number Of Students in Course: 16
+Number of Sessions scheduled: 2
+
+---SESSIONS---
+Session ID: f1754
+Number of Students in the session above: 10
+
+-----COURSES#2-----
+Course: CS1B
+Description: Introduction To Computer Science II
+Number of Students Allowed to Join: 10
+Minimum Number of Students Needed: 5
+Initial Number Of Sessions: 1
+Number Of Students in Course: 10
+Number of Sessions scheduled: 1
+
+---SESSIONS---
+Session ID: x8897
+Number of Students in the session above: 10
+
+--------------------------------------------------------------------
+
+
+-----FACULTY#2------
+Name: Homi  Bodhanwala
+Email: homibod@gmail.com
+Phone Number: 949-922-6000
+Address: 2800 Saddleback Ln, Mission Viejo, California, 92653
+ID: bbc50
+Joined: Wed Nov 23 2016
+Status: Tenured
+
+-----COURSES#1-----
+Course: CS4A
+Description: Intro to Java Programming
+Number of Students Allowed to Join: 30
+Minimum Number of Students Needed: 5
+Initial Number Of Sessions: 2
+Number Of Students in Course: 30
+Number of Sessions scheduled: 2
+
+---SESSIONS---
+Session ID: j-174
+Number of Students in the session above: 15
+
+-----COURSES#2-----
+Course: CS4A
+Description: Intro to Java Programming
+Number of Students Allowed to Join: 30
+Minimum Number of Students Needed: 5
+Initial Number Of Sessions: 2
+Number Of Students in Course: 30
+Number of Sessions scheduled: 2
+
+---SESSIONS---
+Session ID: c1889
+Number of Students in the session above: 15
+
+-----COURSES#3-----
+Course: CS4B
+Description: Advanced Topics In Java Programming
+Number of Students Allowed to Join: 15
+Minimum Number of Students Needed: 5
+Initial Number Of Sessions: 1
+Number Of Students in Course: 11
+Number of Sessions scheduled: 1
+
+---SESSIONS---
+Session ID: q1614
+Number of Students in the session above: 11
+
+--------------------------------------------------------------------
+
+
+-----FACULTY#3------
+Name: Ole Gunna Soljeskar
+Email: oleout@yahoo.com
+Phone Number: 949-222-8472
+Address: 123 Manchester Derby, Manchester, UK, 92124
+ID: b12b9
+Joined: Wed Dec 04 2019
+Status: Not Tenured
+
+-----COURSES#1-----
+Course: PHY4A
+Description: General Physics I
+Number of Students Allowed to Join: 30
+Minimum Number of Students Needed: 10
+Initial Number Of Sessions: 3
+Number Of Students in Course: 21
+Number of Sessions scheduled: 2
+
+---SESSIONS---
+Session ID: w2019
+Number of Students in the session above: 10
+
+-----COURSES#2-----
+Course: PHY4B
+Description: General Physics II
+Number of Students Allowed to Join: 25
+Minimum Number of Students Needed: 10
+Initial Number Of Sessions: 2
+Number Of Students in Course: 16
+Number of Sessions scheduled: 1
+
+---SESSIONS---
+Session ID: c-240
+Number of Students in the session above: 12
+
+-----COURSES#3-----
+Course: PHY4C
+Description: General Physics III
+Number of Students Allowed to Join: 25
+Minimum Number of Students Needed: 10
+Initial Number Of Sessions: 2
+Number Of Students in Course: 10
+Number of Sessions scheduled: 1
+
+---SESSIONS---
+Session ID: m1034
+Number of Students in the session above: 10
+
+--------------------------------------------------------------------
+
+
+-----FACULTY#4------
+Name: Jurgen  Klopp
+Email: jurgen20@gmail.com
+Phone Number: 982-765-4567
+Address: 12 Mersisidye Ln, Liverpool, UK, 92134
+ID: 25288
+Joined: Wed Mar 11 2015
+Status: Tenured
+
+-----COURSES#1-----
+Course: CS1A
+Description: Introduction To Computer Science I
+Number of Students Allowed to Join: 20
+Minimum Number of Students Needed: 5
+Initial Number Of Sessions: 2
+Number Of Students in Course: 16
+Number of Sessions scheduled: 2
+
+---SESSIONS---
+Session ID: k8239
+Number of Students in the session above: 6
+
+-----COURSES#2-----
+Course: GD5
+Description: History of Animation
+Number of Students Allowed to Join: 25
+Minimum Number of Students Needed: 10
+Initial Number Of Sessions: 1
+Number Of Students in Course: 11
+Number of Sessions scheduled: 1
+
+---SESSIONS---
+Session ID: h1490
+Number of Students in the session above: 11
+
+--------------------------------------------------------------------
+
+
+-----FACULTY#5------
+Name: John  Taft
+Email: johnnyboy@hotmail.com
+Phone Number: 949-922-9864
+Address: 13 Sanderling Ln, Aliso Viejo, California, 92656
+ID: e93d4
+Joined: Wed Feb 10 2021
+Status: Not Tenured
+
+-----COURSES#1-----
+Course: PHY4A
+Description: General Physics I
+Number of Students Allowed to Join: 30
+Minimum Number of Students Needed: 10
+Initial Number Of Sessions: 3
+Number Of Students in Course: 21
+Number of Sessions scheduled: 2
+
+---SESSIONS---
+Session ID: d1191
+Number of Students in the session above: 10
+
+--------------------------------------------------------------------
+
+
+-----FACULTY#6------
+Name: Bikas  Karki
+Email: bikaskarki@gmail.com
+Phone Number: 562-764-9871
+Address: 2 Greenwich St, Aliso Viejo, California, 92656
+ID: 7afb7
+Joined: Sat Mar 04 2000
+Status: Tenured
+
+-----COURSES#1-----
+Course: CS1C
+Description: Introduction To Computer Science III
+Number of Students Allowed to Join: 45
+Minimum Number of Students Needed: 5
+Initial Number Of Sessions: 3
+Number Of Students in Course: 45
+Number of Sessions scheduled: 3
+
+---SESSIONS---
+Session ID: p2843
+Number of Students in the session above: 15
+
+-----COURSES#2-----
+Course: CS3A
+Description: Machine Language
+Number of Students Allowed to Join: 20
+Minimum Number of Students Needed: 5
+Initial Number Of Sessions: 1
+Number Of Students in Course: 11
+Number of Sessions scheduled: 1
+
+---SESSIONS---
+Session ID: d5050
+Number of Students in the session above: 11
+
+-----COURSES#3-----
+Course: CS3B
+Description: Assembly Language
+Number of Students Allowed to Join: 20
+Minimum Number of Students Needed: 5
+Initial Number Of Sessions: 1
+Number Of Students in Course: 10
+Number of Sessions scheduled: 1
+
+---SESSIONS---
+Session ID: x1023
+Number of Students in the session above: 10
+
+--------------------------------------------------------------------
+
+
+-----FACULTY#7------
+Name: Joey  Campbell
+Email: joey928@gmail.com
+Phone Number: 989-874-1537
+Address: 15 Brea Ln, Foothill Ranch, California, 92631
+ID: 7d742
+Joined: Wed Jul 06 2016
+Status: Not Tenured
+
+-----COURSES#1-----
+Course: MATH3A
+Description: Calculus One
+Number of Students Allowed to Join: 30
+Minimum Number of Students Needed: 10
+Initial Number Of Sessions: 2
+Number Of Students in Course: 15
+Number of Sessions scheduled: 1
+
+---SESSIONS---
+Session ID: r1013
+Number of Students in the session above: 15
+
+-----COURSES#2-----
+Course: MATH3B
+Description: Calculus Two
+Number of Students Allowed to Join: 30
+Minimum Number of Students Needed: 10
+Initial Number Of Sessions: 2
+Number Of Students in Course: 11
+Number of Sessions scheduled: 1
+
+---SESSIONS---
+Session ID: u6472
+Number of Students in the session above: 11
+
+--------------------------------------------------------------------
+
+
+-----FACULTY#8------
+Name: James  Dowty
+Email: jamesiscool@gmail.com
+Phone Number: 946-163-4753
+Address: 15 Valley St, Mission Viejo, California, 92645
+ID: d0020
+Joined: Sun Jul 07 2002
+Status: Tenured
+
+-----COURSES#1-----
+Course: MATH26
+Description: Linear Algebra
+Number of Students Allowed to Join: 30
+Minimum Number of Students Needed: 15
+Initial Number Of Sessions: 2
+Number Of Students in Course: 30
+Number of Sessions scheduled: 2
+
+---SESSIONS---
+Session ID: e-182
+Number of Students in the session above: 15
+
+-----COURSES#2-----
+Course: MATH3C
+Description: Calculus Three
+Number of Students Allowed to Join: 30
+Minimum Number of Students Needed: 10
+Initial Number Of Sessions: 2
+Number Of Students in Course: 17
+Number of Sessions scheduled: 1
+
+---SESSIONS---
+Session ID: y1810
+Number of Students in the session above: 15
+
+--------------------------------------------------------------------
+
+
+-----FACULTY#9------
+Name: John  Kath
+Email: johnkath@gmail.com
+Phone Number: 153-342-5324
+Address: 241 Homie St, Rancho Viejo, California, 21451
+ID: 8791a
+Joined: Fri Jul 07 2006
+Status: Tenured
+
+-----COURSES#1-----
+Course: ENG1A
+Description: Principles of Composition
+Number of Students Allowed to Join: 20
+Minimum Number of Students Needed: 10
+Initial Number Of Sessions: 2
+Number Of Students in Course: 16
+Number of Sessions scheduled: 1
+
+---SESSIONS---
+Session ID: f-159
+Number of Students in the session above: 10
+
+-----COURSES#2-----
+Course: ENG1B
+Description: Principles of Composition
+Number of Students Allowed to Join: 20
+Minimum Number of Students Needed: 5
+Initial Number Of Sessions: 2
+Number Of Students in Course: 13
+Number of Sessions scheduled: 1
+
+---SESSIONS---
+Session ID: g2032
+Number of Students in the session above: 10
+
+--------------------------------------------------------------------
+
+
+-----FACULTY#10------
+Name: Micheal  Jackson
+Email: jackson@gmail.com
+Phone Number: 758-467-1255
+Address: 17899 Burberry Ln, Rancho Niguel, California, 21412
+ID: 9265f
+Joined: Wed Jul 01 2020
+Status: Not Tenured
+
+-----COURSES#1-----
+Course: BIO20
+Description: Intro to Biology
+Number of Students Allowed to Join: 15
+Minimum Number of Students Needed: 5
+Initial Number Of Sessions: 2
+Number Of Students in Course: 13
+Number of Sessions scheduled: 2
+
+---SESSIONS---
+Session ID: k1882
+Number of Students in the session above: 7
+
+--------------------------------------------------------------------
+
+
+-----FACULTY#11------
+Name: Frainkie  Cotinola
+Email: cotinolaf@yahoo.com
+Phone Number: 243-322-6781
+Address: 241124 Gaugin Circle, Mission Viejo, California, 92651
+ID: 06d39
+Joined: Sat Dec 07 2019
+Status: Not Tenured
+
+-----COURSES#1-----
+Course: BIO20
+Description: Intro to Biology
+Number of Students Allowed to Join: 15
+Minimum Number of Students Needed: 5
+Initial Number Of Sessions: 2
+Number Of Students in Course: 13
+Number of Sessions scheduled: 2
+
+---SESSIONS---
+Session ID: u1596
+Number of Students in the session above: 6
+
+--------------------------------------------------------------------
+
+
+-----FACULTY#13------
+Name: Trevor McFlurry Williams
+Email: hellodad@gmail.com
+Phone Number: 153-567-2367
+Address: 241 Homie St, Rancho Cali, Baja Mexico, 87574
+ID: 50d00
+Joined: Tue Dec 01 2020
+Status: Not Tenured
+
+-----COURSES#1-----
+Course: MATH26
+Description: Linear Algebra
+Number of Students Allowed to Join: 30
+Minimum Number of Students Needed: 15
+Initial Number Of Sessions: 2
+Number Of Students in Course: 30
+Number of Sessions scheduled: 2
+
+---SESSIONS---
+Session ID: h1750
+Number of Students in the session above: 15
+
+-----COURSES#2-----
+Course: MATH2
+Description: Pre Calculus
+Number of Students Allowed to Join: 20
+Minimum Number of Students Needed: 10
+Initial Number Of Sessions: 2
+Number Of Students in Course: 14
+Number of Sessions scheduled: 1
+
+---SESSIONS---
+Session ID: a7466
+Number of Students in the session above: 10
+
+--------------------------------------------------------------------
+
+
+-----FACULTY#18------
+Name: Deji Jake Olatuneji
+Email: dejioj@gmail.com
+Phone Number: 153-252-6534
+Address: 124 Fairfax, Fairfax, California, 522511
+ID: 1529a
+Joined: Thu Jul 12 2018
+Status: Tenured
+
+-----COURSES#1-----
+Course: CS1C
+Description: Introduction To Computer Science III
+Number of Students Allowed to Join: 45
+Minimum Number of Students Needed: 5
+Initial Number Of Sessions: 3
+Number Of Students in Course: 45
+Number of Sessions scheduled: 3
+
+---SESSIONS---
+Session ID: p1899
+Number of Students in the session above: 15
+
+--------------------------------------------------------------------
+
+
+-----FACULTY#20------
+Name: Mason  Greenwood
+Email: mg11@hotmail.com
+Phone Number: 642-653-5325
+Address: 12 Carrington, Manchester, UK, 21441
+ID: bc2ed
+Joined: Mon Nov 08 2004
+Status: Not Tenured
+
+-----COURSES#1-----
+Course: CS1C
+Description: Introduction To Computer Science III
+Number of Students Allowed to Join: 45
+Minimum Number of Students Needed: 5
+Initial Number Of Sessions: 3
+Number Of Students in Course: 45
+Number of Sessions scheduled: 3
+
+---SESSIONS---
+Session ID: h-113
+Number of Students in the session above: 15
+
+--------------------------------------------------------------------
+
